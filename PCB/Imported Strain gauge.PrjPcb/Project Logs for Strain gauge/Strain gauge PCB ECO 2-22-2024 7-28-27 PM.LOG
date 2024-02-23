@@ -1,0 +1,31 @@
+Add Component: Footprint Not Found 1X03
+Add Component: Footprint Not Found 22-23-2021
+Add Component: Footprint Not Found 22-23-2021
+Add Component: Footprint Not Found 22-23-2021
+Add Component: Footprint Not Found 22-23-2021
+Add Component: Footprint Not Found 22-23-2021
+Add Component: Footprint Not Found 22-23-2021
+Add Component: Footprint Not Found 22-23-2021
+Add Component: Footprint Not Found TEENSY41
+Add Component: Footprint Not Found CAN_TEN
+Added Net: Name=3.3V
+Added Net: Name=5V
+Added Net: Name=12V
+Added Net: Name=CRX2
+Added Net: Name=CTX2
+Added Net: Name=GND
+Added Net: Name=NetSTRAIN1_1
+Added Net: Name=NetSTRAIN1_2
+Added Net: Name=NetSTRAIN2_1
+Added Net: Name=NetSTRAIN2_2
+Added Net: Name=NetSTRAIN3_1
+Added Net: Name=NetSTRAIN3_2
+Added Net: Name=NetSTRAIN4_1
+Added Net: Name=NetSTRAIN4_2
+Added Net: Name=NetSTRAIN5_1
+Added Net: Name=NetSTRAIN5_2
+Added Net: Name=NetSTRAIN6_1
+Added Net: Name=NetSTRAIN6_2
+Added Net: Name=NetSTRAIN7_1
+Added Net: Name=NetSTRAIN7_2
+Added Class: Name=Strain gauge
