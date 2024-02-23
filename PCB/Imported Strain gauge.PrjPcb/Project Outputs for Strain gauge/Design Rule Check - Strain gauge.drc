@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Git\formula_e\FormulaE\PCB\Imported Strain gauge.PrjPcb\Strain gauge.PcbDoc
+PCB File : C:\Git\formula_e\circuit_design\PCB\Imported Strain gauge.PrjPcb\Strain gauge.PcbDoc
 Date     : 2/22/2024
-Time     : 6:58:48 PM
+Time     : 8:06:37 PM
 
 Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
@@ -43,17 +43,12 @@ Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
 
 Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
-   Violation between Board Outline Clearance(Outline Edge): (9.246mil < 10mil) Between Board Edge And Text "STRAIN1" (1500mil,1450mil) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (9.246mil < 10mil) Between Board Edge And Text "STRAIN2" (1250mil,1450mil) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (9.246mil < 10mil) Between Board Edge And Text "STRAIN3" (1000mil,1450mil) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (9.246mil < 10mil) Between Board Edge And Text "STRAIN4" (750mil,1450mil) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (9.246mil < 10mil) Between Board Edge And Text "STRAIN5" (500mil,1450mil) on Top Overlay 
-Rule Violations :5
+Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
-Violations Detected : 5
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
