@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Git\formula_e\circuit_design\PCB\Imported Strain gauge.PrjPcb\Strain gauge.PcbDoc
-Date     : 2/22/2024
-Time     : 8:06:37 PM
+Date     : 2/27/2024
+Time     : 12:06:34 AM
 
 Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
@@ -18,7 +18,7 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=6mil) (Max=10mil) (Preferred=6mil) (All)
+Processing Rule : Width Constraint (Min=6mil) (Max=12mil) (Preferred=12mil) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
@@ -51,4 +51,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
