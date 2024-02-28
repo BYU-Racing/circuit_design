@@ -1,0 +1,19 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [Strain gauge.PrjPcb]
+   Generated File[Strain gauge_Copper_Signal_Top.gbr]
+   Generated File[Strain gauge_Copper_Signal_Bot.gbr]
+   Generated File[Strain gauge_Legend_Top.gbr]
+   Generated File[Strain gauge_Legend_Bot.gbr]
+   Generated File[Strain gauge_Keep-out.gbr]
+   Generated File[Strain gauge_Profile.gbr]
+   Generated File[Strain gauge_NPTH_Drill.gbr]
+   Generated File[Strain gauge_PTH_Drill.gbr]
+   Generated File[Strain gauge.EXTREP]
+   Generated File[Strain gauge.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 6:16:22 PM On 2/27/2024
