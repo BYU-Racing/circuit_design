@@ -1,0 +1,5 @@
+v1.0 = 12 mil track width
+v2.0 = 20 mil track width
+v3.0 = 20 mil track width, enlarged pads
+
+only the most recent gerbers will be in here but like... for posterity's sake or something ig

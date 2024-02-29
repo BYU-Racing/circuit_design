@@ -99,23 +99,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
-DocumentPath=throttle control.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for team throttle control\Design Rule Check - team throttle control.html
 DItemRevisionGUID=
@@ -130,34 +113,6 @@ DItemRevisionGUID=
 
 [GeneratedDocument4]
 DocumentPath=Project Outputs for team throttle control\team throttle control.REP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for team throttle control\team throttle control_Copper_Signal_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for team throttle control\team throttle control_Keep-out.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for team throttle control\team throttle control_Legend_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for team throttle control\team throttle control_Legend_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for team throttle control\team throttle control_NPTH_Drill.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for team throttle control\team throttle control_Profile.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for team throttle control\team throttle control_PTH_Drill.gbr
 DItemRevisionGUID=
 
 [Configuration1]
