@@ -1,0 +1,17 @@
+=====ECU======
+square: 8
+streamlined: 7
+
+===Throttle===
+square: 8
+streamlined: 
+
+====Strain====
+square: 5
+streamlined:
+
+=====Dash=====
+square: 11
+streamlined:
+
+(note: all area is in square inches)
