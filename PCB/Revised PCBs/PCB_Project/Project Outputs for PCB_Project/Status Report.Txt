@@ -1,0 +1,19 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [PCB_Project.PrjPcb]
+   Generated File[Test Fit Schematic_Copper_Signal_Top.gbr]
+   Generated File[Test Fit Schematic_Copper_Signal_Bot.gbr]
+   Generated File[Test Fit Schematic_Legend_Top.gbr]
+   Generated File[Test Fit Schematic_Legend_Bot.gbr]
+   Generated File[Test Fit Schematic_Keep-out.gbr]
+   Generated File[Test Fit Schematic_Profile.gbr]
+   Generated File[Test Fit Schematic_NPTH_Drill.gbr]
+   Generated File[Test Fit Schematic_PTH_Drill.gbr]
+   Generated File[Test Fit Schematic.EXTREP]
+   Generated File[Test Fit Schematic.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 8:49:45 PM On 4/2/2024

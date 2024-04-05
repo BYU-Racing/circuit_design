@@ -1,0 +1,90 @@
+*************************************************************
+FileName = Test Fit Schematic.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : Test Fit Schematic_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Test Fit Schematic_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Test Fit Schematic_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Test Fit Schematic_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Test Fit Schematic_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : Test Fit Schematic_Profile.gbr
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : Test Fit Schematic_NPTH_Drill.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : Test Fit Schematic_PTH_Drill.gbr
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+*************************************************************
+

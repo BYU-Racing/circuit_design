@@ -1,1 +1,2 @@
-Record=TopLevelDocument|FileName=Master Schematic.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Master Schematic.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Master Schematic.SchDoc|FileName=Test Fit Schematic.SchDoc|SheetNumber=1
