@@ -1,0 +1,87 @@
+Added Component: Designator=24-pin(DJ7242-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Accelerometer(Accelerometer Header-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CAN Module(CAN Module-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=GPS(GPS-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TEENSY(FP-DEV-16996-MFG)
+Added Pin To Net: NetName=3.3V Pin=24-pin-9
+Added Pin To Net: NetName=3.3V Pin=Accelerometer-1
+Added Pin To Net: NetName=3.3V Pin=Accelerometer-8
+Added Pin To Net: NetName=3.3V Pin=CAN Module-1
+Added Pin To Net: NetName=3.3V Pin=GPS-8
+Added Pin To Net: NetName=3.3V Pin=TEENSY-44
+Added Net: Name=3.3V
+Added Pin To Net: NetName=AX RX Pin=Accelerometer-5
+Added Pin To Net: NetName=AX RX Pin=TEENSY-7
+Added Net: Name=AX RX
+Added Pin To Net: NetName=BLPS RD Pin=24-pin-21
+Added Pin To Net: NetName=BLPS RD Pin=TEENSY-39
+Added Net: Name=BLPS RD
+Added Pin To Net: NetName=CANH Pin=24-pin-24
+Added Pin To Net: NetName=CANH Pin=CAN Module-6
+Added Net: Name=CANH
+Added Pin To Net: NetName=CANL Pin=24-pin-23
+Added Pin To Net: NetName=CANL Pin=CAN Module-5
+Added Net: Name=CANL
+Added Pin To Net: NetName=CAN RX Pin=CAN Module-3
+Added Pin To Net: NetName=CAN RX Pin=TEENSY-0
+Added Net: Name=CAN RX
+Added Pin To Net: NetName=CAN TX Pin=CAN Module-4
+Added Pin To Net: NetName=CAN TX Pin=TEENSY-1
+Added Net: Name=CAN TX
+Added Pin To Net: NetName=COOL RD Pin=24-pin-22
+Added Pin To Net: NetName=COOL RD Pin=TEENSY-38
+Added Net: Name=COOL RD
+Added Pin To Net: NetName=DAMP POT 1 Pin=24-pin-16
+Added Pin To Net: NetName=DAMP POT 1 Pin=TEENSY-40
+Added Net: Name=DAMP POT 1
+Added Pin To Net: NetName=DAMP POT 2 Pin=24-pin-19
+Added Pin To Net: NetName=DAMP POT 2 Pin=TEENSY-41
+Added Net: Name=DAMP POT 2
+Added Pin To Net: NetName=GND Pin=24-pin-17
+Added Pin To Net: NetName=GND Pin=Accelerometer-3
+Added Pin To Net: NetName=GND Pin=CAN Module-2
+Added Pin To Net: NetName=GND Pin=GPS-7
+Added Pin To Net: NetName=GND Pin=TEENSY-43
+Added Net: Name=GND
+Added Pin To Net: NetName=GPS RX Pin=GPS-6
+Added Pin To Net: NetName=GPS RX Pin=TEENSY-16
+Added Net: Name=GPS RX
+Added Pin To Net: NetName=GPS TX Pin=GPS-5
+Added Pin To Net: NetName=GPS TX Pin=TEENSY-17
+Added Net: Name=GPS TX
+Added Pin To Net: NetName=VIN Pin=24-pin-1
+Added Pin To Net: NetName=VIN Pin=TEENSY-42
+Added Net: Name=VIN
+Added Class: Name=TEENSY 1

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=DAMP POT 2 Pin=24-pin-3
+Removed Pin From Net: NetName=DAMP POT 1 Pin=24-pin-4
+Added Pin To Net: NetName=DAMP POT 1 Pin=24-pin-3
+Added Pin To Net: NetName=DAMP POT 2 Pin=24-pin-4
+Added Member To Class: ClassName=TEENSY 1.1 Member=Component R1 MBB02070C1002FCT00
+Added Member To Class: ClassName=TEENSY 1.1 Member=Component R2 MBB02070C1002FCT00

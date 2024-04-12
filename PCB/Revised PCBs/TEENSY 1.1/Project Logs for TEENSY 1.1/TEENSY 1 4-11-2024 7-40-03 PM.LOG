@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=COOL RD Pin=24-pin-5
+Removed Pin From Net: NetName=BLPS RD Pin=24-pin-6
+Removed Pin From Net: NetName=CANL Pin=24-pin-11
+Removed Pin From Net: NetName=CANH Pin=24-pin-12
+Added Pin To Net: NetName=CANL Pin=24-pin-5
+Added Pin To Net: NetName=CANH Pin=24-pin-6
+Added Pin To Net: NetName=COOL RD Pin=24-pin-7
+Added Pin To Net: NetName=BLPS RD Pin=24-pin-8

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=DAMP POT 2 Pin=24-pin-19
+Removed Pin From Net: NetName=DAMP POT 1 Pin=24-pin-20
+Removed Pin From Net: NetName=BLPS RD Pin=24-pin-21
+Removed Pin From Net: NetName=COOL RD Pin=24-pin-22
+Removed Pin From Net: NetName=CANL Pin=24-pin-23
+Removed Pin From Net: NetName=CANH Pin=24-pin-24
+Added Pin To Net: NetName=DAMP POT 2 Pin=24-pin-3
+Added Pin To Net: NetName=DAMP POT 1 Pin=24-pin-4
+Added Pin To Net: NetName=BLPS RD Pin=24-pin-5
+Added Pin To Net: NetName=COOL RD Pin=24-pin-6
+Added Pin To Net: NetName=CANL Pin=24-pin-11
+Added Pin To Net: NetName=CANH Pin=24-pin-12
