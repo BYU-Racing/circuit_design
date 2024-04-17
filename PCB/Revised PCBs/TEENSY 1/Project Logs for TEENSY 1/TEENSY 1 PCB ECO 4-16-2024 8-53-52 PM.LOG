@@ -1,0 +1,5 @@
+Change Component DesignItemId : Designator=24-pin Old DesignItemId=CMP-00030-00002-4 New DesignItemId=CMP-00030-00002-5
+Change Component Footprint: Designator=24-pin Old Footprint=DJ7242-Footprint-1 New Footprint=DJ7242-Footprint-1
+Change Component Footprint: Designator=R1 Old Footprint=FP-CMF50-0 New Footprint=FP-CMF50-0
+Change Component Footprint: Designator=R2 Old Footprint=FP-CMF50-0 New Footprint=FP-CMF50-0
+Change Managed Component Library Link : Designator=24-pin Old VaultGUID=57ADE2F9-0B28-43AD-A7CE-D52C78F004E7 New VaultGUID=57ADE2F9-0B28-43AD-A7CE-D52C78F004E7 Old ItemGUID=293615d7-c798-446f-a00f-1b47f2b99807 New ItemGUID=293615d7-c798-446f-a00f-1b47f2b99807 Old RevisionGUID=fbba076e-b540-4b27-a612-28bc6e8b22f5 New RevisionGUID=5b5cb5b5-9fa7-461e-a789-8dc6dc3a8b74

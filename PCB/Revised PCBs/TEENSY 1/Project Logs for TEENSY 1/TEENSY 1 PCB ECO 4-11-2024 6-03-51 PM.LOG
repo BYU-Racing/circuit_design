@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=DAMP POT 1 Pin=24-pin-16
-Added Pin To Net: NetName=DAMP POT 1 Pin=24-pin-20
-Add Pin To Net: Unknown Pin: Pin R1-1
-Add Pin To Net: Unknown Pin: Pin R1-2
-Add Pin To Net: Unknown Pin: Pin R2-1
-Add Pin To Net: Unknown Pin: Pin R2-2
-Add Class Member: Failed to add class member : Component R1 Resistor
-Add Class Member: Failed to add class member : Component R2 Resistor

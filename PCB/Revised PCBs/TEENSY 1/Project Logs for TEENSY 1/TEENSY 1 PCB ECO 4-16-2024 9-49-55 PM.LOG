@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GPS RX Pin=TEENSY 1-16
+Removed Pin From Net: NetName=GPS TX Pin=TEENSY 1-17
+Added Pin To Net: NetName=GPS RX Pin=TEENSY 1-34
+Added Pin To Net: NetName=GPS TX Pin=TEENSY 1-35
