@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=DAMP POT 3 Pin=24-pin-3
+Removed Pin From Net: NetName=DAMP POT 4 Pin=24-pin-4
+Removed Pin From Net: NetName=THR POT 2 Pin=24-pin-5
+Removed Pin From Net: NetName=THR POT 1 Pin=24-pin-6
+Added Pin To Net: NetName=THR POT 1 Pin=24-pin-3
+Added Pin To Net: NetName=THR POT 2 Pin=24-pin-4
+Added Pin To Net: NetName=DAMP POT 3 Pin=24-pin-5
+Added Pin To Net: NetName=DAMP POT 4 Pin=24-pin-6

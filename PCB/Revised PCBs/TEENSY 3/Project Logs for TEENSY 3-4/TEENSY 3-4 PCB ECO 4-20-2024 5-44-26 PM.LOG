@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetR4_2 Pin=TEENSY 4-20
+Change Component Footprint: Designator=R1 Old Footprint=FP-CMF50-0 New Footprint=FP-CMF50-0
+Change Component Footprint: Designator=R2 Old Footprint=FP-CMF50-0 New Footprint=FP-CMF50-0
+Change Component Footprint: Designator=R3 Old Footprint=FP-CMF50-0 New Footprint=FP-CMF50-0
+Change Component Footprint: Designator=R4 Old Footprint=FP-CMF50-0 New Footprint=FP-CMF50-0
+Change Component Footprint: Designator=R5 Old Footprint=FP-CMF50-0 New Footprint=FP-CMF50-0
+Change Component Footprint: Designator=R6 Old Footprint=FP-CMF50-0 New Footprint=FP-CMF50-0
+Change Component Footprint: Designator=R7 Old Footprint=FP-CMF50-0 New Footprint=FP-CMF50-0
+Change Component Footprint: Designator=R8 Old Footprint=FP-CMF50-0 New Footprint=FP-CMF50-0
+Change Component Footprint: Designator=R9 Old Footprint=FP-CMF50-0 New Footprint=FP-CMF50-0

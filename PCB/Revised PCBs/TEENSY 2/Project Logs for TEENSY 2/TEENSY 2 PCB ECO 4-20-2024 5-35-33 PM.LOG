@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=SDA Pin=24-pin-7
+Removed Pin From Net: NetName=VIN Pin=24-pin-24
+Added Pin To Net: NetName=VIN Pin=24-pin-7
+Added Pin To Net: NetName=SDA Pin=24-pin-24
+Added Member To Class: ClassName=TEENSY 2 Member=Component 24-pin DJ7242

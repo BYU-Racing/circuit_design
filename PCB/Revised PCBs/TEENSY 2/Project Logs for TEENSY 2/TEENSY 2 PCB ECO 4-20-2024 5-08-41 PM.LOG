@@ -1,0 +1,60 @@
+Added Component: Designator=24-pin(DJ7242-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CAN Module(CAN Module-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TEENSY 2(FP-DEV-16996-MFG)
+Added Pin To Net: NetName=3.3V Pin=24-pin-8
+Added Pin To Net: NetName=3.3V Pin=CAN Module-4
+Added Pin To Net: NetName=3.3V Pin=TEENSY 2-44
+Added Net: Name=3.3V
+Added Pin To Net: NetName=CANH Pin=24-pin-24
+Added Pin To Net: NetName=CANH Pin=CAN Module-5
+Added Net: Name=CANH
+Added Pin To Net: NetName=CANL Pin=24-pin-23
+Added Pin To Net: NetName=CANL Pin=CAN Module-6
+Added Net: Name=CANL
+Added Pin To Net: NetName=CAN RX Pin=CAN Module-2
+Added Pin To Net: NetName=CAN RX Pin=TEENSY 2-0
+Added Net: Name=CAN RX
+Added Pin To Net: NetName=CAN TX Pin=CAN Module-1
+Added Pin To Net: NetName=CAN TX Pin=TEENSY 2-1
+Added Net: Name=CAN TX
+Added Pin To Net: NetName=DAMP POT 3 Pin=24-pin-22
+Added Pin To Net: NetName=DAMP POT 3 Pin=TEENSY 2-23
+Added Net: Name=DAMP POT 3
+Added Pin To Net: NetName=DAMP POT 4 Pin=24-pin-21
+Added Pin To Net: NetName=DAMP POT 4 Pin=TEENSY 2-22
+Added Net: Name=DAMP POT 4
+Added Pin To Net: NetName=GND Pin=24-pin-17
+Added Pin To Net: NetName=GND Pin=CAN Module-3
+Added Pin To Net: NetName=GND Pin=TEENSY 2-43
+Added Net: Name=GND
+Added Pin To Net: NetName=SAS Pin=24-pin-7
+Added Pin To Net: NetName=SAS Pin=TEENSY 2-38
+Added Net: Name=SAS
+Added Pin To Net: NetName=SCL Pin=24-pin-4
+Added Pin To Net: NetName=SCL Pin=TEENSY 2-24
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=24-pin-5
+Added Pin To Net: NetName=SDA Pin=TEENSY 2-25
+Added Net: Name=SDA
+Added Pin To Net: NetName=THR POT 1 Pin=24-pin-19
+Added Pin To Net: NetName=THR POT 1 Pin=TEENSY 2-39
+Added Net: Name=THR POT 1
+Added Pin To Net: NetName=THR POT 2 Pin=24-pin-20
+Added Pin To Net: NetName=THR POT 2 Pin=TEENSY 2-40
+Added Net: Name=THR POT 2
+Added Pin To Net: NetName=VIN Pin=24-pin-1
+Added Pin To Net: NetName=VIN Pin=TEENSY 2-42
+Added Net: Name=VIN
+Added Class: Name=TEENSY 2

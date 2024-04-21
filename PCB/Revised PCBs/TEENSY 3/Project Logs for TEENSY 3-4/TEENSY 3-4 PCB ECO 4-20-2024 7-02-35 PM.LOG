@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=SCL Pin=24-pin-6
+Removed Pin From Net: NetName=SDA Pin=24-pin-7
+Removed Pin From Net: NetName=LED2 B Pin=24-pin-18
+Removed Pin From Net: NetName=LED2 G Pin=24-pin-19
+Removed Pin From Net: NetName=HRN RD Pin=24-pin-21
+Removed Pin From Net: NetName=HRN WRT Pin=24-pin-22
+Added Pin To Net: NetName=LED2 B Pin=24-pin-6
+Added Pin To Net: NetName=LED2 G Pin=24-pin-7
+Added Pin To Net: NetName=SDA Pin=24-pin-18
+Added Pin To Net: NetName=SCL Pin=24-pin-19
+Added Pin To Net: NetName=HRN WRT Pin=24-pin-21
+Added Pin To Net: NetName=HRN RD Pin=24-pin-22
