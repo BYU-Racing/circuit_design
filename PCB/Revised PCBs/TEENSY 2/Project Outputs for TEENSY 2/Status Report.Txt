@@ -1,0 +1,23 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [TEENSY 2.PrjPcb]
+   Generated File[TEENSY 2_Copper_Signal_Top.gbr]
+   Generated File[TEENSY 2_Copper_Signal_Bot.gbr]
+   Generated File[TEENSY 2_Legend_Top.gbr]
+   Generated File[TEENSY 2_Legend_Bot.gbr]
+   Generated File[TEENSY 2_Soldermask_Top.gbr]
+   Generated File[TEENSY 2_Soldermask_Bot.gbr]
+   Generated File[TEENSY 2_Paste_Top.gbr]
+   Generated File[TEENSY 2_Paste_Bot.gbr]
+   Generated File[TEENSY 2_Keep-out.gbr]
+   Generated File[TEENSY 2_Profile.gbr]
+   Generated File[TEENSY 2_NPTH_Drill.gbr]
+   Generated File[TEENSY 2_PTH_Drill.gbr]
+   Generated File[TEENSY 2.EXTREP]
+   Generated File[TEENSY 2.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 12:26:24 AM On 4/23/2024
