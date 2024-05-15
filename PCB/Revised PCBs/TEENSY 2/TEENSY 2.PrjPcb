@@ -83,23 +83,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QGRTMAVN
 
-[Document3]
-DocumentPath=TEENSY 2.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for TEENSY 2\Design Rule Check - TEENSY 2.html
 DItemRevisionGUID=
@@ -110,54 +93,6 @@ DItemRevisionGUID=
 
 [GeneratedDocument3]
 DocumentPath=Project Outputs for TEENSY 2\TEENSY 2.REP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for TEENSY 2\TEENSY 2_Copper_Signal_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for TEENSY 2\TEENSY 2_Copper_Signal_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for TEENSY 2\TEENSY 2_Keep-out.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for TEENSY 2\TEENSY 2_Legend_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for TEENSY 2\TEENSY 2_Legend_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for TEENSY 2\TEENSY 2_NPTH_Drill.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for TEENSY 2\TEENSY 2_Paste_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for TEENSY 2\TEENSY 2_Paste_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for TEENSY 2\TEENSY 2_Profile.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for TEENSY 2\TEENSY 2_PTH_Drill.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for TEENSY 2\TEENSY 2_Soldermask_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for TEENSY 2\TEENSY 2_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [Configuration1]

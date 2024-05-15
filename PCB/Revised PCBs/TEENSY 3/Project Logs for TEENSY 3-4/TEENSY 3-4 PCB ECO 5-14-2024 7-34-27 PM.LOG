@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=3.3V Pin=CAN Module 1-1
+Removed Pin From Net: NetName=GND Pin=CAN Module 1-2
+Removed Pin From Net: NetName=CANL Pin=CAN Module 1-5
+Removed Pin From Net: NetName=CANH Pin=CAN Module 1-6
+Added Component: Designator=CAN Module 1(CAN Module-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=CAN Module 1-3
+Added Pin To Net: NetName=3.3V Pin=CAN Module 1-4
+Added Pin To Net: NetName=CANH Pin=CAN Module 1-5
+Added Pin To Net: NetName=CANL Pin=CAN Module 1-6
+Added Pin To Net: NetName=CAN RX 1 Pin=CAN Module 1-2
+Added Pin To Net: NetName=CAN RX 1 Pin=TEENSY 3-0
+Added Net: Name=CAN RX 1
+Added Pin To Net: NetName=CAN TX 1 Pin=CAN Module 1-1
+Added Pin To Net: NetName=CAN TX 1 Pin=TEENSY 3-1
+Added Net: Name=CAN TX 1
