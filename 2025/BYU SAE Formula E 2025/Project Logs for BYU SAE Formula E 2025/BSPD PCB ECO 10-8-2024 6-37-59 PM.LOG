@@ -1,0 +1,302 @@
+Added Component: Designator=AND(N0014A)
+Add component (AddParameter): Name = "Bits(#)"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SCHS057C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "F @ Nom Voltage(Max)(Mhz)"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Generic Part Number"; Value = "CD4081B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ICC @ Nom Voltage(Max)(mA)"; Value = "0.015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range(C)"; Value = "-55 to 125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Drive (IOL/IOH)(Max)(mA)"; Value = "-6.8/6.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "N0014A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schmitt Trigger"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology Family"; Value = "CD4000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "tpd @ Nom Voltage(Max)(ns)"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC(Max)(V)"; Value = "18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC(Min)(V)"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage(Nom)(V)"; Value = "10"; VariantName = "[No Variations]"
+Added Component: Designator=NOR(N0014A)
+Add component (AddParameter): Name = "Bits(#)"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SCHS015C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "F @ Nom Voltage(Max)(Mhz)"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Generic Part Number"; Value = "CD4001B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ICC @ Nom Voltage(Max)(mA)"; Value = "0.015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range(C)"; Value = "-55 to 125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Drive (IOL/IOH)(Max)(mA)"; Value = "1.5/-1.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "N0014A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "http://www.ti.com/lit/ml/mpdi002c/mpdi002c.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "tpd @ Nom Voltage(Max)(ns)"; Value = "120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC(Max)(V)"; Value = "18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC(Min)(V)"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage(Nom)(V)"; Value = "10"; VariantName = "[No Variations]"
+Added Component: Designator=OR(N0014A)
+Add component (AddParameter): Name = "Bits(#)"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SCHS056D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "F @ Nom Voltage(Max)(Mhz)"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Generic Part Number"; Value = "CD4071B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ICC @ Nom Voltage(Max)(mA)"; Value = "0.015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range(C)"; Value = "-55 to 125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Drive (IOL/IOH)(Max)(mA)"; Value = "1.5/-1.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "N0014A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "http://www.ti.com/lit/ml/mpdi002c/mpdi002c.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "tpd @ Nom Voltage(Max)(ns)"; Value = "120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC(Max)(V)"; Value = "18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC(Min)(V)"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage(Nom)(V)"; Value = "10"; VariantName = "[No Variations]"
+Added Component: Designator=U1(STM-SO-8_D_L)
+Add component (AddParameter): Name = "Category"; Value = "IntegratedCircuits(ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Input Bias (Max)"; Value = "0.25µA@5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Output (Typ)"; Value = "18mA@5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Quiescent (Max)"; Value = "2.5mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/group1/b4/cc/cf/13/18/28/44/f5/CD00000465/files/CD00000465.pdf/jcr:content/translations/en.CD00000465.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 15, 02/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EDA / CAD Models"; Value = "DownloadfromAcceleratedDesigns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Linear-Comparators"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "Comparators-2elements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "0°C~70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "497-1593-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Related Documents"; Value = "LM393ViewAllSpecificationsLM393ViewAllSpecifications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "CMOS,DTL,ECL,MOS,Open-Collector,TTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "8-SOIC(0.154",3.90mmWidth)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "8-Pin Small Outline Integrated Circuit, Body 4.9 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SO-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape&Reel(TR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "2,500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "8-SO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "GeneralPurpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Input Offset (Max)"; Value = "5mV@30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply, Single/Dual (±)"; Value = "2V~36V,±1V~18V"; VariantName = "[No Variations]"
+Added Component: Designator=U2(STM-SO-8_D_L)
+Add component (AddParameter): Name = "Category"; Value = "IntegratedCircuits(ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Input Bias (Max)"; Value = "0.25µA@5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Output (Typ)"; Value = "18mA@5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Quiescent (Max)"; Value = "2.5mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/group1/b4/cc/cf/13/18/28/44/f5/CD00000465/files/CD00000465.pdf/jcr:content/translations/en.CD00000465.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 15, 02/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EDA / CAD Models"; Value = "DownloadfromAcceleratedDesigns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Linear-Comparators"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "Comparators-2elements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "0°C~70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "497-1593-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Related Documents"; Value = "LM393ViewAllSpecificationsLM393ViewAllSpecifications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "CMOS,DTL,ECL,MOS,Open-Collector,TTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "8-SOIC(0.154",3.90mmWidth)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "8-Pin Small Outline Integrated Circuit, Body 4.9 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SO-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape&Reel(TR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "2,500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "8-SO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "GeneralPurpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Input Offset (Max)"; Value = "5mV@30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply, Single/Dual (±)"; Value = "2V~36V,±1V~18V"; VariantName = "[No Variations]"
+Added Component: Designator=U3(STM-SO-8_D_L)
+Add component (AddParameter): Name = "Category"; Value = "IntegratedCircuits(ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Input Bias (Max)"; Value = "0.25µA@5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Output (Typ)"; Value = "18mA@5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Quiescent (Max)"; Value = "2.5mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/group1/b4/cc/cf/13/18/28/44/f5/CD00000465/files/CD00000465.pdf/jcr:content/translations/en.CD00000465.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 15, 02/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EDA / CAD Models"; Value = "DownloadfromAcceleratedDesigns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Linear-Comparators"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "Comparators-2elements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "0°C~70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "497-1593-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Related Documents"; Value = "LM393ViewAllSpecificationsLM393ViewAllSpecifications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "CMOS,DTL,ECL,MOS,Open-Collector,TTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "8-SOIC(0.154",3.90mmWidth)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "8-Pin Small Outline Integrated Circuit, Body 4.9 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SO-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape&Reel(TR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "2,500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "8-SO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "GeneralPurpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Input Offset (Max)"; Value = "5mV@30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply, Single/Dual (±)"; Value = "2V~36V,±1V~18V"; VariantName = "[No Variations]"
+Added Component: Designator=U4(STM-SO-8_D_L)
+Add component (AddParameter): Name = "Category"; Value = "IntegratedCircuits(ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Input Bias (Max)"; Value = "0.25µA@5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Output (Typ)"; Value = "18mA@5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Quiescent (Max)"; Value = "2.5mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/group1/b4/cc/cf/13/18/28/44/f5/CD00000465/files/CD00000465.pdf/jcr:content/translations/en.CD00000465.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 15, 02/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EDA / CAD Models"; Value = "DownloadfromAcceleratedDesigns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Linear-Comparators"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "Comparators-2elements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "0°C~70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "497-1593-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Related Documents"; Value = "LM393ViewAllSpecificationsLM393ViewAllSpecifications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "CMOS,DTL,ECL,MOS,Open-Collector,TTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "8-SOIC(0.154",3.90mmWidth)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "8-Pin Small Outline Integrated Circuit, Body 4.9 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SO-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape&Reel(TR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "2,500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "8-SO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "GeneralPurpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Input Offset (Max)"; Value = "5mV@30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply, Single/Dual (±)"; Value = "2V~36V,±1V~18V"; VariantName = "[No Variations]"
+Added Component: Designator=U5(STM-SO-8_D_L)
+Add component (AddParameter): Name = "Category"; Value = "IntegratedCircuits(ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Input Bias (Max)"; Value = "0.25µA@5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Output (Typ)"; Value = "18mA@5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Quiescent (Max)"; Value = "2.5mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/group1/b4/cc/cf/13/18/28/44/f5/CD00000465/files/CD00000465.pdf/jcr:content/translations/en.CD00000465.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 15, 02/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EDA / CAD Models"; Value = "DownloadfromAcceleratedDesigns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Linear-Comparators"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "Comparators-2elements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "0°C~70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "497-1593-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Related Documents"; Value = "LM393ViewAllSpecificationsLM393ViewAllSpecifications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "CMOS,DTL,ECL,MOS,Open-Collector,TTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "8-SOIC(0.154",3.90mmWidth)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "8-Pin Small Outline Integrated Circuit, Body 4.9 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SO-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape&Reel(TR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "2,500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "8-SO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "GeneralPurpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Input Offset (Max)"; Value = "5mV@30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply, Single/Dual (±)"; Value = "2V~36V,±1V~18V"; VariantName = "[No Variations]"
+Added Component: Designator=U6(STM-SO-8_D_L)
+Add component (AddParameter): Name = "Category"; Value = "IntegratedCircuits(ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Input Bias (Max)"; Value = "0.25µA@5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Output (Typ)"; Value = "18mA@5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Quiescent (Max)"; Value = "2.5mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/group1/b4/cc/cf/13/18/28/44/f5/CD00000465/files/CD00000465.pdf/jcr:content/translations/en.CD00000465.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 15, 02/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EDA / CAD Models"; Value = "DownloadfromAcceleratedDesigns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Linear-Comparators"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "Comparators-2elements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "0°C~70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "497-1593-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Related Documents"; Value = "LM393ViewAllSpecificationsLM393ViewAllSpecifications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "CMOS,DTL,ECL,MOS,Open-Collector,TTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "8-SOIC(0.154",3.90mmWidth)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "8-Pin Small Outline Integrated Circuit, Body 4.9 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SO-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape&Reel(TR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "2,500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "8-SO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "GeneralPurpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Input Offset (Max)"; Value = "5mV@30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply, Single/Dual (±)"; Value = "2V~36V,±1V~18V"; VariantName = "[No Variations]"
+Added Net: Name=0.1V
+Added Net: Name=4V
+Added Net: Name=5.1V
+Added Net: Name=9V
+Added Pin To Net: NetName=Accumulator Disconnect Pin=AND-3
+Added Net: Name=Accumulator Disconnect
+Added Net: Name=Adjustment Device
+Added Pin To Net: NetName=Brake Pressure Sensor Pin=U4-3
+Added Pin To Net: NetName=Brake Pressure Sensor Pin=U5-3
+Added Pin To Net: NetName=Brake Pressure Sensor Pin=U6-2
+Added Net: Name=Brake Pressure Sensor
+Added Pin To Net: NetName=Current Sensor Pin=U1-2
+Added Pin To Net: NetName=Current Sensor Pin=U2-3
+Added Pin To Net: NetName=Current Sensor Pin=U3-3
+Added Net: Name=Current Sensor
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Pin To Net: NetName=GND Pin=U6-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetAND_1 Pin=AND-1
+Added Net: Name=NetAND_1
+Added Pin To Net: NetName=NetAND_2 Pin=AND-2
+Added Net: Name=NetAND_2
+Added Pin To Net: NetName=NetNOR_1 Pin=NOR-1
+Added Pin To Net: NetName=NetNOR_1 Pin=OR-3
+Added Net: Name=NetNOR_1
+Added Pin To Net: NetName=NetNOR_2 Pin=NOR-2
+Added Pin To Net: NetName=NetNOR_2 Pin=OR-10
+Added Net: Name=NetNOR_2
+Added Pin To Net: NetName=NetNOR_3 Pin=NOR-3
+Added Net: Name=NetNOR_3
+Added Pin To Net: NetName=NetOR_1 Pin=OR-1
+Added Pin To Net: NetName=NetOR_1 Pin=U1-1
+Added Net: Name=NetOR_1
+Added Pin To Net: NetName=NetOR_2 Pin=OR-2
+Added Pin To Net: NetName=NetOR_2 Pin=U2-1
+Added Net: Name=NetOR_2
+Added Pin To Net: NetName=NetOR_4 Pin=OR-4
+Added Net: Name=NetOR_4
+Added Pin To Net: NetName=NetOR_5 Pin=OR-5
+Added Pin To Net: NetName=NetOR_5 Pin=U3-1
+Added Net: Name=NetOR_5
+Added Pin To Net: NetName=NetOR_6 Pin=OR-6
+Added Pin To Net: NetName=NetOR_6 Pin=U4-1
+Added Net: Name=NetOR_6
+Added Pin To Net: NetName=NetOR_8 Pin=OR-8
+Added Pin To Net: NetName=NetOR_8 Pin=U5-1
+Added Net: Name=NetOR_8
+Added Pin To Net: NetName=NetOR_9 Pin=OR-9
+Added Pin To Net: NetName=NetOR_9 Pin=U6-1
+Added Net: Name=NetOR_9
+Added Pin To Net: NetName=NetPOT1_1 Pin=U1-3
+Added Net: Name=NetPOT1_1
+Added Pin To Net: NetName=NetPOT2_1 Pin=U2-2
+Added Net: Name=NetPOT2_1
+Added Pin To Net: NetName=NetPOT3_1 Pin=U3-2
+Added Net: Name=NetPOT3_1
+Added Pin To Net: NetName=NetPOT4_1 Pin=U4-2
+Added Net: Name=NetPOT4_1
+Added Pin To Net: NetName=NetPOT5_1 Pin=U5-2
+Added Net: Name=NetPOT5_1
+Added Pin To Net: NetName=NetPOT6_1 Pin=U6-3
+Added Net: Name=NetPOT6_1
+Added Pin To Net: NetName=VCC Pin=U1-8
+Added Pin To Net: NetName=VCC Pin=U2-8
+Added Pin To Net: NetName=VCC Pin=U3-8
+Added Pin To Net: NetName=VCC Pin=U4-8
+Added Pin To Net: NetName=VCC Pin=U5-8
+Added Pin To Net: NetName=VCC Pin=U6-8
+Added Net: Name=VCC
+Added Net: Name=VSUPPLY
+Added Class: Name=BSPD
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
