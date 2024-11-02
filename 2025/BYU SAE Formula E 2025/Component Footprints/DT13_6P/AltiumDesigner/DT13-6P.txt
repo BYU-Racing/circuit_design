@@ -1,0 +1,107 @@
+# Created by Ultra Librarian 8.3.360 Copyright © 1999-2024
+# Frank Frank, Accelerated Designs
+
+StartFootprints
+
+Footprint (Name "CONN6_DT13-6P_TEC")
+Pad (Name "6") (Location 0, 250) (HoleSize 72) (Surface False) (Rotation 0) (ExpandMask 0) (ExpandPaste -46)
+PadShape (Size 92, 92) (Shape Rounded) (Layer Top)
+PadShape (Size 92, 92) (Shape Rounded) (Layer Bottom)
+EndPad
+Pad (Name "1") (Location 0, 0) (HoleSize 72) (Surface False) (Rotation 0) (ExpandMask 0) (ExpandPaste -46)
+PadShape (Size 92, 92) (Shape Rounded) (Layer Top)
+PadShape (Size 92, 92) (Shape Rounded) (Layer Bottom)
+EndPad
+Pad (Name "5") (Location -175, 250) (HoleSize 72) (Surface False) (Rotation 0) (ExpandMask 0) (ExpandPaste -46)
+PadShape (Size 92, 92) (Shape Rounded) (Layer Top)
+PadShape (Size 92, 92) (Shape Rounded) (Layer Bottom)
+EndPad
+Pad (Name "2") (Location -175, 0) (HoleSize 72) (Surface False) (Rotation 0) (ExpandMask 0) (ExpandPaste -46)
+PadShape (Size 92, 92) (Shape Rounded) (Layer Top)
+PadShape (Size 92, 92) (Shape Rounded) (Layer Bottom)
+EndPad
+Pad (Name "4") (Location -350, 250) (HoleSize 72) (Surface False) (Rotation 0) (ExpandMask 0) (ExpandPaste -46)
+PadShape (Size 92, 92) (Shape Rounded) (Layer Top)
+PadShape (Size 92, 92) (Shape Rounded) (Layer Bottom)
+EndPad
+Pad (Name "3") (Location -350, 0) (HoleSize 72) (Surface False) (Rotation 0) (ExpandMask 0) (ExpandPaste -46)
+PadShape (Size 92, 92) (Shape Rounded) (Layer Top)
+PadShape (Size 92, 92) (Shape Rounded) (Layer Bottom)
+EndPad
+Pad (Name "7") (Location -603, 40) (HoleSize 120) (Plated 0) (Surface False) (Rotation 0) (ExpandMask -60) (ExpandPaste -60)
+PadShape (Size 120, 120) (Shape Rounded) (Layer Top)
+PadShape (Size 120, 120) (Shape Rounded) (Layer Bottom)
+EndPad
+Pad (Name "8") (Location 253, 40) (HoleSize 120) (Plated 0) (Surface False) (Rotation 0) (ExpandMask -60) (ExpandPaste -60)
+PadShape (Size 120, 120) (Shape Rounded) (Layer Top)
+PadShape (Size 120, 120) (Shape Rounded) (Layer Bottom)
+EndPad
+Pad (Name "9") (Location -175, 490) (HoleSize 120) (Plated 0) (Surface False) (Rotation 0) (ExpandMask -60) (ExpandPaste -60)
+PadShape (Size 120, 120) (Shape Rounded) (Layer Top)
+PadShape (Size 120, 120) (Shape Rounded) (Layer Bottom)
+EndPad
+Line (Width 6) (Start -967, 1445) (End -967, -130) (Layer Mechanical15) 
+Line (Width 6) (Start -967, -130) (End 738, -130) (Layer Mechanical15) 
+Line (Width 6) (Start 738, -130) (End 738, 1445) (Layer Mechanical15) 
+Line (Width 6) (Start 738, 1445) (End -967, 1445) (Layer Mechanical15) 
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-967, 1445)
+Point (-967, -130)
+Point (738, -130)
+Point (738, 1445)
+EndPolygon
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-957, 1435)
+Point (-957, -120)
+Point (728, -120)
+Point (728, 1435)
+EndPolygon
+Line (Width 1) (Start -957, -120) (End 728, -120) (Layer Mechanical13) 
+Line (Width 1) (Start 728, -120) (End 728, 1435) (Layer Mechanical13) 
+Line (Width 1) (Start 728, 1435) (End -957, 1435) (Layer Mechanical13) 
+Line (Width 1) (Start -957, 1435) (End -957, -120) (Layer Mechanical13) 
+Arc (Width 20) (Radius 15) (Location 0, -100) (StartAngle 0) (EndAngle 360) (Layer Mechanical13) 
+Line (Width 6) (Start -962, -125) (End 733, -125) (Layer TopOverlay) 
+Line (Width 6) (Start 733, -125) (End 733, 1440) (Layer TopOverlay) 
+Line (Width 6) (Start 733, 1440) (End -962, 1440) (Layer TopOverlay) 
+Line (Width 6) (Start -962, 1440) (End -962, -125) (Layer TopOverlay) 
+Arc (Width 20) (Radius 15) (Location 765, 0) (StartAngle 0) (EndAngle 360) (Layer TopOverlay) 
+Arc (Width 20) (Radius 15) (Location 765, 0) (StartAngle 0) (EndAngle 360) (Layer BottomOverlay) 
+EndFootprint
+EndFootprints
+
+StartComponents
+
+Component (Name "DT13-6P") (PartCount 1) (DesPrefix "J?")
+Pin (Location -200, 200) (Rotation 180) (PinType Passive) (Length 200) (Width 0) (Designator Visible "1") (Name Hidden "1") (PinSwap 0) (PartSwap 0) (PinSeq 1) (Part 1)
+Pin (Location -200, 100) (Rotation 180) (PinType Passive) (Length 200) (Width 0) (Designator Visible "2") (Name Hidden "2") (PinSwap 0) (PartSwap 0) (PinSeq 2) (Part 1)
+Pin (Location -200, 0) (Rotation 180) (PinType Passive) (Length 200) (Width 0) (Designator Visible "3") (Name Hidden "3") (PinSwap 0) (PartSwap 0) (PinSeq 3) (Part 1)
+Pin (Location -200, -100) (Rotation 180) (PinType Passive) (Length 200) (Width 0) (Designator Visible "4") (Name Hidden "4") (PinSwap 0) (PartSwap 0) (PinSeq 4) (Part 1)
+Pin (Location -200, -200) (Rotation 180) (PinType Passive) (Length 200) (Width 0) (Designator Visible "5") (Name Hidden "5") (PinSwap 0) (PartSwap 0) (PinSeq 5) (Part 1)
+Pin (Location -200, -300) (Rotation 180) (PinType Passive) (Length 200) (Width 0) (Designator Visible "6") (Name Hidden "6") (PinSwap 0) (PartSwap 0) (PinSeq 6) (Part 1)
+Line (Width 5) (Start 0, 200) (End -200, 200) (Part 1)
+Line (Width 5) (Start 0, 100) (End -200, 100) (Part 1)
+Line (Width 5) (Start 0, 0) (End -200, 0) (Part 1)
+Line (Width 5) (Start 0, -100) (End -200, -100) (Part 1)
+Line (Width 5) (Start 0, -200) (End -200, -200) (Part 1)
+Line (Width 5) (Start 0, -300) (End -200, -300) (Part 1)
+Line (Width 5) (Start 0, 200) (End -50, 233.3333) (Part 1)
+Line (Width 5) (Start 0, 100) (End -50, 133.3333) (Part 1)
+Line (Width 5) (Start 0, 0) (End -50, 33.3333) (Part 1)
+Line (Width 5) (Start 0, -100) (End -50, -66.6667) (Part 1)
+Line (Width 5) (Start 0, -200) (End -50, -166.6667) (Part 1)
+Line (Width 5) (Start 0, -300) (End -50, -266.6667) (Part 1)
+Line (Width 5) (Start 0, 200) (End -50, 166.6667) (Part 1)
+Line (Width 5) (Start 0, 100) (End -50, 66.6667) (Part 1)
+Line (Width 5) (Start 0, 0) (End -50, -33.3333) (Part 1)
+Line (Width 5) (Start 0, -100) (End -50, -133.3333) (Part 1)
+Line (Width 5) (Start 0, -200) (End -50, -233.3333) (Part 1)
+Line (Width 5) (Start 0, -300) (End -50, -333.3333) (Part 1)
+Rectangle (Width 5) (Start -200, -400) (End 100, 300) (Part 1)
+Parameter (Name "TYPE") (Location 0, 0) (Height 82) (Rotation 0) (Justification Center) (Value "-") (Part 1)
+Parameter (Name "Mfr_Name") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "TE Connectivity") (Part 1)
+Parameter (Name "RefDes") (Location -50, 450) (Height 82) (Rotation 0) (Justification Center) (Value "RefDes") (Part 1)
+Description (Value "No Description Available") (Part 1)
+Footprint (Name "CONN6_DT13-6P_TEC")
+EndComponent
+EndComponents
