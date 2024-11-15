@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=GND Pin=AND-1
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Change Net Name : Old Net Name=NetAND_2 New Net Name=R2_OUT
+Change Net Name : Old Net Name=NetCOMP1_1 New Net Name=CMP1_OUT
+Change Net Name : Old Net Name=NetCOMP2_1 New Net Name=CMP2_OUT
+Change Net Name : Old Net Name=NetCOMP3_1 New Net Name=CMP3_OUT
+Change Net Name : Old Net Name=NetCOMP4_1 New Net Name=CMP4_OUT
+Change Net Name : Old Net Name=NetCOMP5_1 New Net Name=CMP5_OUT
+Change Net Name : Old Net Name=NetCOMP6_1 New Net Name=CMP6_OUT
+Change Net Name : Old Net Name=NetNOR_1 New Net Name=ORA_OUT
+Change Net Name : Old Net Name=NetNOR_2 New Net Name=ORC_OUT
+Change Net Name : Old Net Name=NetNOR_3 New Net Name=NORA_OUT
+Change Net Name : Old Net Name=NetOR_4 New Net Name=ORB_OUT
+Added Member To Class: ClassName=BSPD Member=Component R2VR1 140

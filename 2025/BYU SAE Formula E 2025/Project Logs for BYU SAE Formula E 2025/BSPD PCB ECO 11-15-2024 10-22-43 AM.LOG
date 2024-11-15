@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=12V Pin=J-1
+Removed Pin From Net: NetName=Current Sensor Pin=J-2
+Removed Pin From Net: NetName=Brake Pressure Sensor Pin=J-3
+Removed Pin From Net: NetName=Accumulator Disconnect Pin=J-5
+Removed Pin From Net: NetName=GND Pin=J-6
+Added Pin To Net: NetName=GND Pin=J-1
+Added Pin To Net: NetName=Accumulator Disconnect Pin=J-3
+Added Pin To Net: NetName=Brake Pressure Sensor Pin=J-4
+Added Pin To Net: NetName=Current Sensor Pin=J-5
+Added Pin To Net: NetName=12V Pin=J-6
