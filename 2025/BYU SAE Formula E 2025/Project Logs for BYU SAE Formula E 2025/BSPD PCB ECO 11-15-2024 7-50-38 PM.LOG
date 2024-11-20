@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VSS Pin=AND-7
+Removed Pin From Net: NetName=VSS Pin=NOR-7
+Added Pin To Net: NetName=GND Pin=AND-7
+Added Pin To Net: NetName=GND Pin=NOR-7

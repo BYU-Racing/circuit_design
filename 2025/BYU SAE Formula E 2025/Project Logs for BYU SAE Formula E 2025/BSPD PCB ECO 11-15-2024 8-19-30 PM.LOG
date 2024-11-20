@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=C1Plus Pin=P1-3
+Removed Pin From Net: NetName=C2 Minus Pin=P2-3
+Removed Pin From Net: NetName=C3Minus Pin=P3-3
+Removed Pin From Net: NetName=C4Minus Pin=P4-3
+Removed Pin From Net: NetName=C5Minus Pin=P5-3
+Removed Pin From Net: NetName=C6Plus Pin=P6-3
+Added Pin To Net: NetName=C1Plus Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=C2 Minus Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=C3Minus Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=C4Minus Pin=P4-2
+Added Pin To Net: NetName=GND Pin=P4-3
+Added Pin To Net: NetName=C5Minus Pin=P5-2
+Added Pin To Net: NetName=GND Pin=P5-3
+Added Pin To Net: NetName=C6Plus Pin=P6-2
+Added Pin To Net: NetName=GND Pin=P6-3
