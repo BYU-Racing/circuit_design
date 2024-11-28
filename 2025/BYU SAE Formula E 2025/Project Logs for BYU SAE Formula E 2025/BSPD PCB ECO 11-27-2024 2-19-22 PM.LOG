@@ -1,0 +1,9 @@
+Added Component: Designator=J1(FP-B6B-PH-K-K_LF_SN-MFG)
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=Current Sensor Pin=J1-2
+Added Pin To Net: NetName=12V Pin=J1-3
+Added Pin To Net: NetName=Brake Pressure Sensor Pin=J1-5
+Added Pin To Net: NetName=Accumulator Disconnect Pin=J1-6
+Added Member To Class: ClassName=BSPD Member=Component J1 B6B-PH-K-K(LF)(SN)
+Added Rule: Name=Schematic Supply Nets

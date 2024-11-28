@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=Brake Pressure Sensor Pin=J1-5
+Removed Pin From Net: NetName=Accumulator Disconnect Pin=J1-6
+Added Pin To Net: NetName=Accumulator Disconnect Pin=J1-5
+Added Pin To Net: NetName=Brake Pressure Sensor Pin=J1-6
+Added Member To Class: ClassName=BSPD Member=Component AND CD4081BE
+Added Member To Class: ClassName=BSPD Member=Component C1VR1 .1uF
+Added Member To Class: ClassName=BSPD Member=Component C1VR2 .1uF
+Added Member To Class: ClassName=BSPD Member=Component C2VR1 1uF
+Added Member To Class: ClassName=BSPD Member=Component C2VR2 1uF
+Added Member To Class: ClassName=BSPD Member=Component COMP1 LM393N
+Added Member To Class: ClassName=BSPD Member=Component COMP2 LM393N
+Added Member To Class: ClassName=BSPD Member=Component COMP3 LM393N
+Added Member To Class: ClassName=BSPD Member=Component COMP6 LM393N
+Added Member To Class: ClassName=BSPD Member=Component J1 B6B-PH-K-K(LF)(SN)
+Added Member To Class: ClassName=BSPD Member=Component P1 3296W-1-103LF
+Added Member To Class: ClassName=BSPD Member=Component P2 3296W-1-103LF
+Added Member To Class: ClassName=BSPD Member=Component P3 3296W-1-103LF
+Added Member To Class: ClassName=BSPD Member=Component P4 3296W-1-103LF
+Added Member To Class: ClassName=BSPD Member=Component P5 3296W-1-103LF
+Added Member To Class: ClassName=BSPD Member=Component P6 3296W-1-103LF
+Added Member To Class: ClassName=BSPD Member=Component R1 MFR-25FBF52-1K
+Added Member To Class: ClassName=BSPD Member=Component R1VR1 240
+Added Member To Class: ClassName=BSPD Member=Component R1VR2 240
+Added Member To Class: ClassName=BSPD Member=Component R2VR1 140
+Added Member To Class: ClassName=BSPD Member=Component R2VR2 240
+Added Member To Class: ClassName=BSPD Member=Component VR1 LM317P
+Added Member To Class: ClassName=BSPD Member=Component VR2 LM317P
