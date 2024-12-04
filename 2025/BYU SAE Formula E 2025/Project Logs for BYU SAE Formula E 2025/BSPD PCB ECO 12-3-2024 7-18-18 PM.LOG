@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=P3 NewDesignator=5.1V P
+Change Component Designator: OldDesignator=P4 NewDesignator=4V P
+Change Component Designator: OldDesignator=P5 NewDesignator=9V P2
+Change Component Designator: OldDesignator=P6 NewDesignator=0.1V P2
+Change Component Designator: OldDesignator=P1 0.1V NewDesignator=0.1V P1
+Change Component Designator: OldDesignator=P2 12V NewDesignator=9V P1
+Change Component Designator: OldDesignator=VR1 NewDesignator=5V Reg
+Change Component Designator: OldDesignator=VR2 2V NewDesignator=2V Reg
+Added Member To Class: ClassName=BSPD Member=Component J1 B6B-PH-K-K(LF)(SN)
