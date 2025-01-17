@@ -1,8 +1,0 @@
-Importing footprints into Altium
-
-1. Choose File > Run Script from the menu.
-2. Select Browse > From File… and select the downloaded UL_Import. PrjScr. ...
-3. Select Open and OK.
-4. In the UL Import Dialog box, select File.
-5. Select the . txt file and Open. ...
-6. Select Start Import.
