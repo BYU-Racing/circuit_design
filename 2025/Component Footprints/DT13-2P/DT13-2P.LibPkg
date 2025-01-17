@@ -64,7 +64,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GMIVLSFD
+DocumentUniqueId=
 
 [Document2]
 DocumentPath=SnapEDAsch.SchLib
@@ -81,10 +81,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JVHTISAB
+DocumentUniqueId=
 
 [SearchPath1]
-Path=C:\Git\circuit_design\circuit_design\2025\Component Footprints\DT13-4P1\*.*
+Path=C:\Git\circuit_design\circuit_design\2025\Component Footprints\DT13-2P\*.*
 IncludeSubFolders=1
 
 [OutputGroup1]

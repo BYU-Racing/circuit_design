@@ -1,0 +1,224 @@
+Added Component: Designator=2P BL(TE_DT13-2P)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=1788306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DT13-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DT13-2P/TE%20Connectivity%20Deutsch%20Connectors/view-part/1788306/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=2P Horn(TE_DT13-2P)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=1788306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DT13-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DT13-2P/TE%20Connectivity%20Deutsch%20Connectors/view-part/1788306/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=4P BR(TE_DT13-4P)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DT13-4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DT13-4P/TE%20Connectivity%20Deutsch%20Connectors/view-part/2708791/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-DT13-4P.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=4P SW(TE_DT13-4P)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DT13-4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DT13-4P/TE%20Connectivity%20Deutsch%20Connectors/view-part/2708791/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-DT13-4P.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=4P T1(TE_DT13-4P)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DT13-4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DT13-4P/TE%20Connectivity%20Deutsch%20Connectors/view-part/2708791/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-DT13-4P.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=4P T2(TE_DT13-4P)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DT13-4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DT13-4P/TE%20Connectivity%20Deutsch%20Connectors/view-part/2708791/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-DT13-4P.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=6P SWh(TE_DT13-6P)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=1897474"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DT13-6P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DT13-6P/TE%20Connectivity%20Deutsch%20Connectors/view-part/1897474/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=6P(TE_DT13-6P)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=1897474"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DT13-6P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DT13-6P/TE%20Connectivity%20Deutsch%20Connectors/view-part/1897474/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CAN Data 1(CAN Module-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CAN Data 2(CAN Module-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CAN Motor 1(CAN Module-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CAN Motor 2(CAN Module-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Teensy4.1(MODULE_DEV-16771)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/DEV-16771/SparkFun+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "SparkFun Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DEV-16771"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DEV-16771/SparkFun+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Teensy4(MODULE_DEV-15583)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "1568-DEV-15583-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/sparkfun-electronics/DEV-15583/1568-DEV-15583-ND/10384551?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "SparkFun Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DEV-15583"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DEV-15583/SparkFun%20Electronics/view-part/4001229/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=V Conv?(CONV_MPM3610GQV-P)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MPM3610GQV-P/Monolithic+Power+Systems+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Monolithic Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MPM3610GQV-P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "QFN-20 MPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search?q=MPM3610GQV-P&ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MPM3610GQV-P/Monolithic+Power+Systems+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=2P BL-1
+Added Pin To Net: NetName=12V Pin=2P BL-2
+Added Pin To Net: NetName=GND Pin=2P Horn-1
+Added Pin To Net: NetName=12V Pin=2P Horn-2
+Added Pin To Net: NetName=GND Pin=4P BR-1
+Added Pin To Net: NetName=GND Pin=4P SW-1
+Added Pin To Net: NetName=GND Pin=4P T1-1
+Added Pin To Net: NetName=GND Pin=4P T2-1
+Added Pin To Net: NetName=GND Pin=6P-1
+Added Pin To Net: NetName=12V Pin=6P-2
+Added Pin To Net: NetName=CANH1 Pin=6P-3
+Added Pin To Net: NetName=CANL1 Pin=6P-4
+Added Pin To Net: NetName=CANH2 Pin=6P-5
+Added Pin To Net: NetName=CANL2 Pin=6P-6
+Added Pin To Net: NetName=GND Pin=6P SWh-1
+Added Pin To Net: NetName=12V Pin=6P SWh-2
+Added Pin To Net: NetName=ANA... Pin=6P SWh-3
+Added Pin To Net: NetName=ANA... Pin=6P SWh-4
+Added Pin To Net: NetName=ANA... Pin=6P SWh-6
+Added Pin To Net: NetName=CRX1A Pin=CAN Data 1-1
+Added Pin To Net: NetName=CTX1A Pin=CAN Data 1-2
+Added Pin To Net: NetName=GND Pin=CAN Data 1-3
+Added Pin To Net: NetName=CANH2 Pin=CAN Data 1-5
+Added Pin To Net: NetName=CANL2 Pin=CAN Data 1-6
+Added Pin To Net: NetName=CTX2A Pin=CAN Data 2-1
+Added Pin To Net: NetName=CRX2A Pin=CAN Data 2-2
+Added Pin To Net: NetName=GND Pin=CAN Data 2-3
+Added Pin To Net: NetName=CANH2 Pin=CAN Data 2-5
+Added Pin To Net: NetName=CANL2 Pin=CAN Data 2-6
+Added Pin To Net: NetName=CTX1B Pin=CAN Motor 1-1
+Added Pin To Net: NetName=CRX1B Pin=CAN Motor 1-2
+Added Pin To Net: NetName=GND Pin=CAN Motor 1-3
+Added Pin To Net: NetName=CANH1 Pin=CAN Motor 1-5
+Added Pin To Net: NetName=CANL1 Pin=CAN Motor 1-6
+Added Pin To Net: NetName=CRX2B Pin=CAN Motor 2-1
+Added Pin To Net: NetName=CTX2B Pin=CAN Motor 2-2
+Added Pin To Net: NetName=GND Pin=CAN Motor 2-3
+Added Pin To Net: NetName=CANH1 Pin=CAN Motor 2-5
+Added Pin To Net: NetName=CANL1 Pin=CAN Motor 2-6
+Added Pin To Net: NetName=CRX2A Pin=Teensy4-0
+Added Pin To Net: NetName=CTX2A Pin=Teensy4-1
+Added Pin To Net: NetName=CTX1A Pin=Teensy4-22
+Added Pin To Net: NetName=CRX1A Pin=Teensy4-23
+Added Pin To Net: NetName=GND Pin=Teensy4-G1
+Added Pin To Net: NetName=5V Pin=Teensy4-VIN
+Added Pin To Net: NetName=CRX2B Pin=Teensy4.1-0
+Added Pin To Net: NetName=CTX2B Pin=Teensy4.1-1
+Added Pin To Net: NetName=5V Pin=Teensy4.1-5V
+Added Pin To Net: NetName=CTX1B Pin=Teensy4.1-22
+Added Pin To Net: NetName=CRX1B Pin=Teensy4.1-23
+Added Pin To Net: NetName=GND Pin=Teensy4.1-GND1
+Added Pin To Net: NetName=5V Pin=Teensy4.1-VIN
+Added Pin To Net: NetName=3.3V Pin=4P BR-2
+Added Pin To Net: NetName=3.3V Pin=4P SW-2
+Added Pin To Net: NetName=3.3V Pin=4P T1-2
+Added Pin To Net: NetName=3.3V Pin=4P T2-2
+Added Pin To Net: NetName=3.3V Pin=CAN Data 1-4
+Added Pin To Net: NetName=3.3V Pin=CAN Data 2-4
+Added Pin To Net: NetName=3.3V Pin=CAN Motor 1-4
+Added Pin To Net: NetName=3.3V Pin=CAN Motor 2-4
+Added Pin To Net: NetName=3.3V Pin=Teensy4-3.3V_2
+Added Pin To Net: NetName=3.3V Pin=Teensy4.1-3.3V_1
+Added Net: Name=3.3V
+Added Pin To Net: NetName=A1 Pin=4P T1-3
+Added Pin To Net: NetName=A1 Pin=Teensy4.1-24
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=4P T2-3
+Added Pin To Net: NetName=A2 Pin=Teensy4.1-25
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=4P BR-3
+Added Pin To Net: NetName=A3 Pin=Teensy4.1-26
+Added Net: Name=A3
+Added Pin To Net: NetName=A4 Pin=4P SW-3
+Added Pin To Net: NetName=A4 Pin=Teensy4.1-27
+Added Net: Name=A4
+Added Pin To Net: NetName=D1 Pin=4P SW-4
+Added Pin To Net: NetName=D1 Pin=Teensy4.1-14
+Added Net: Name=D1
+Added Pin To Net: NetName=RX1 Pin=6P SWh-5
+Added Net: Name=RX1
+Added Member To Class: ClassName=DCF-ECU Member=Component 2P BL DT13-2P
+Added Member To Class: ClassName=DCF-ECU Member=Component 2P Horn DT13-2P
+Added Member To Class: ClassName=DCF-ECU Member=Component 4P BR DT13-4P
+Added Member To Class: ClassName=DCF-ECU Member=Component 4P SW DT13-4P
+Added Member To Class: ClassName=DCF-ECU Member=Component 4P T1 DT13-4P
+Added Member To Class: ClassName=DCF-ECU Member=Component 4P T2 DT13-4P
+Added Member To Class: ClassName=DCF-ECU Member=Component 6P SWh DT13-6P
+Added Member To Class: ClassName=DCF-ECU Member=Component 6P DT13-6P
+Added Member To Class: ClassName=DCF-ECU Member=Component CAN Data 1 CAN Module
+Added Member To Class: ClassName=DCF-ECU Member=Component CAN Data 2 CAN Module
+Added Member To Class: ClassName=DCF-ECU Member=Component CAN Motor 1 CAN Module
+Added Member To Class: ClassName=DCF-ECU Member=Component CAN Motor 2 CAN Module
+Added Member To Class: ClassName=DCF-ECU Member=Component Teensy4.1 DEV-16771
+Added Member To Class: ClassName=DCF-ECU Member=Component Teensy4 DEV-15583
+Added Member To Class: ClassName=DCF-ECU Member=Component V Conv? MPM3610GQV-P
