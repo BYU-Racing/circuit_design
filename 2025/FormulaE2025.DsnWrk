@@ -3,18 +3,14 @@ Version=1.0
 [Project1]
 ProjectPath=DCF-ECU\DCF-ECU.PrjPcb
 [Project2]
-ProjectPath=DCR\DCR.PrjPcb
-[Project3]
 ProjectPath=Component Footprints\DT13-4P\DT13-4P.LibPkg
-[Project4]
+[Project3]
 ProjectPath=Component Footprints\DT13-6P\DT13-6P.LibPkg
-[Project5]
+[Project4]
 ProjectPath=Component Footprints\MPM3610GQV-P\MPM3610GQV-P.LibPkg
-[Project6]
+[Project5]
 ProjectPath=Component Footprints\TEENSY-41\TEENSY-41.LibPkg
-[Project7]
+[Project6]
 ProjectPath=Component Footprints\TEENSY-40\TEENSY-40.LibPkg
-[Project8]
+[Project7]
 ProjectPath=Component Footprints\DT13-2P\DT13-2P.LibPkg
-[Project9]
-ProjectPath=BYU SAE Formula E 2025\BSPD.PrjPcb
