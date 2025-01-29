@@ -1,0 +1,16 @@
+Add Component: Footprint Not Found CAN Module-Footprint-1
+Add Component: Footprint Not Found CAN Module-Footprint-1
+Add Pin To Net: Unknown Pin: Pin CAN Data-1
+Add Pin To Net: Unknown Pin: Pin CAN Data-2
+Add Pin To Net: Unknown Pin: Pin CAN Data-3
+Add Pin To Net: Unknown Pin: Pin CAN Data-4
+Add Pin To Net: Unknown Pin: Pin CAN Data-5
+Add Pin To Net: Unknown Pin: Pin CAN Data-6
+Add Pin To Net: Unknown Pin: Pin CAN Motor-1
+Add Pin To Net: Unknown Pin: Pin CAN Motor-2
+Add Pin To Net: Unknown Pin: Pin CAN Motor-3
+Add Pin To Net: Unknown Pin: Pin CAN Motor-4
+Add Pin To Net: Unknown Pin: Pin CAN Motor-5
+Add Pin To Net: Unknown Pin: Pin CAN Motor-6
+Add Class Member: Failed to add class member : Component CAN Data CAN Module
+Add Class Member: Failed to add class member : Component CAN Motor CAN Module
