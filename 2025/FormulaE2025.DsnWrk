@@ -14,3 +14,5 @@ ProjectPath=Component Footprints\TEENSY-41\TEENSY-41.LibPkg
 ProjectPath=Component Footprints\TEENSY-40\TEENSY-40.LibPkg
 [Project7]
 ProjectPath=Component Footprints\DT13-2P\DT13-2P.LibPkg
+[Project8]
+ProjectPath=BlackBox-LORA\BlackBox-LORA.PrjPcb
