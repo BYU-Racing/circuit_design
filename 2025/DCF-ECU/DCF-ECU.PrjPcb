@@ -100,6 +100,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PIVVAGUI
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for DCF-ECU\Design Rule Check - DCF-ECU.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
