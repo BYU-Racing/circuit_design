@@ -1,0 +1,154 @@
+Removed Member From Class: ClassName=PCB_Steering_Wheel_REDO Member=P?
+Change Component Footprint: Designator=Pot1 Old Footprint=PEC11H-4015F-S0016-Footprint-1 New Footprint=PEC11H-4015F-S0016-Footprint-1
+Change Component Footprint: Designator=Pot2 Old Footprint=PEC11H-4015F-S0016-Footprint-1 New Footprint=PEC11H-4015F-S0016-Footprint-1
+Change Managed Component Library Link : Designator=Pot1 Old VaultGUID=0845BA95-A36E-405D-81AD-0BCA3A2B2CDB New VaultGUID=0845BA95-A36E-405D-81AD-0BCA3A2B2CDB Old ItemGUID=2c4973e3-cdd3-4f21-b46b-f6e3821ab211 New ItemGUID=2c4973e3-cdd3-4f21-b46b-f6e3821ab211 Old RevisionGUID=adb0e259-c069-4bd4-9f15-8a3d8d59c6f0 New RevisionGUID=455d8443-a954-45ac-837a-8783daff1b6b
+Change Managed Component Library Link : Designator=Pot2 Old VaultGUID=0845BA95-A36E-405D-81AD-0BCA3A2B2CDB New VaultGUID=0845BA95-A36E-405D-81AD-0BCA3A2B2CDB Old ItemGUID=2c4973e3-cdd3-4f21-b46b-f6e3821ab211 New ItemGUID=2c4973e3-cdd3-4f21-b46b-f6e3821ab211 Old RevisionGUID=adb0e259-c069-4bd4-9f15-8a3d8d59c6f0 New RevisionGUID=455d8443-a954-45ac-837a-8783daff1b6b
+Added Component: Designator=Accel(Adafruit BN0085-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sensor Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(FP-H45K0BAA-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "3.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ELV"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Diameter"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Resistors"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "5kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Thin Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Holco, Holsworthy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "5ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "350V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.01411oz"; VariantName = "[No Variations]"
+Added Component: Designator=R2(FP-H45K0BAA-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "3.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ELV"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Diameter"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Resistors"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "5kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Thin Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Holco, Holsworthy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "5ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "350V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.01411oz"; VariantName = "[No Variations]"
+Added Component: Designator=R3(FP-H45K0BAA-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "3.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ELV"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Diameter"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Resistors"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "5kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Thin Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Holco, Holsworthy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "5ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "350V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.01411oz"; VariantName = "[No Variations]"
+Added Component: Designator=R4(FP-H45K0BAA-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "3.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ELV"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Diameter"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Resistors"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "5kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Thin Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Holco, Holsworthy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "5ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "350V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.01411oz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Pot1-3
+Added Pin To Net: NetName=GND Pin=Pot2-3
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Net: Name=GND
+Added Net: Name=SDA
+Added Pin To Net: NetName=VCC Pin=B1-1
+Added Pin To Net: NetName=VCC Pin=B2-1
+Added Pin To Net: NetName=VCC Pin=Pot1-1
+Added Pin To Net: NetName=VCC Pin=Pot2-1
+Added Net: Name=VCC
+Added Pin To Net: NetName=Vout1 Pin=B1-2
+Added Pin To Net: NetName=Vout1 Pin=R1-1
+Added Net: Name=Vout1
+Added Pin To Net: NetName=Vout2 Pin=B2-2
+Added Pin To Net: NetName=Vout2 Pin=R2-1
+Added Net: Name=Vout2
+Added Pin To Net: NetName=Vout3 Pin=Pot1-2
+Added Pin To Net: NetName=Vout3 Pin=R3-1
+Added Net: Name=Vout3
+Added Pin To Net: NetName=Vout4 Pin=Pot2-2
+Added Pin To Net: NetName=Vout4 Pin=R4-1
+Added Net: Name=Vout4
+Added Member To Class: ClassName=PCB_Steering_Wheel_REDO Member=Component Accel Adafruit BN0085
+Added Member To Class: ClassName=PCB_Steering_Wheel_REDO Member=Component R1 10k
+Added Member To Class: ClassName=PCB_Steering_Wheel_REDO Member=Component R2 10k
+Added Member To Class: ClassName=PCB_Steering_Wheel_REDO Member=Component R3 10k
+Added Member To Class: ClassName=PCB_Steering_Wheel_REDO Member=Component R4 10k
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1

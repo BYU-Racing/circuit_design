@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=Accel Old DesignItemId=CMP-010-00024-2 New DesignItemId=CMP-010-00024-4
+Change Component Footprint: Designator=Accel Old Footprint=Adafruit BN0085-Footprint-1 New Footprint=Adafruit BN0085-Footprint-1
+Change Managed Component Library Link : Designator=Accel Old VaultGUID=0845BA95-A36E-405D-81AD-0BCA3A2B2CDB New VaultGUID=0845BA95-A36E-405D-81AD-0BCA3A2B2CDB Old ItemGUID=2dda588c-5574-4d41-870a-cb68808fb58b New ItemGUID=2dda588c-5574-4d41-870a-cb68808fb58b Old RevisionGUID=58dcdaf4-daac-40f6-aad6-abd077d62e15 New RevisionGUID=7fad0d38-5f1d-4b94-9378-649cd755aa9d

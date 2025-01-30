@@ -1,0 +1,36 @@
+Change Component Comment : Designator=P3 Old Comment=334-10-101-00-020000 New Comment=+VCC
+Change Component Comment : Designator=P1 Old Comment=334-10-101-00-020000 New Comment=But 1 Read
+Change Component Comment : Designator=P2 Old Comment=334-10-101-00-020000 New Comment=But 2 Read
+Change Component Comment : Designator=P8 Old Comment=334-10-101-00-020000 New Comment=GND
+Change Component Kind : Designator=P2 Old Kind=Standard New Kind=Jumper
+Added Component: Designator=B1(PB6B2HS2M1CAL00-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B2(PB6B2HS2M1CAL00-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=B1-1
+Added Pin To Net: NetName=VCC Pin=B2-2
+Added Pin To Net: NetName=VCC Pin=P3-1
+Added Pin To Net: NetName=GND Pin=Pot1-3
+Add Pin To Net: Unknown Pin: Pin Pot1-4
+Added Pin To Net: NetName=GND Pin=Pot1-5
+Added Pin To Net: NetName=GND Pin=Pot2-1
+Add Pin To Net: Unknown Pin: Pin Pot2-4
+Added Pin To Net: NetName=GND Pin=Pot2-5
+Added Pin To Net: NetName=NetB1_2 Pin=B1-2
+Added Pin To Net: NetName=NetB1_2 Pin=P1-1
+Added Net: Name=NetB1_2
+Added Pin To Net: NetName=NetB2_1 Pin=B2-1
+Added Pin To Net: NetName=NetB2_1 Pin=P2-1
+Added Net: Name=NetB2_1
+Added Member To Class: ClassName=PCB_Steering_Wheel_REDO Member=Component B1 PB6B2HS2M1CAL00
+Added Member To Class: ClassName=PCB_Steering_Wheel_REDO Member=Component B2 PB6B2HS2M1CAL00

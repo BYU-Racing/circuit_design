@@ -1,0 +1,87 @@
+Change Component Comment : Designator=P5 Old Comment=334-10-101-00-020000 New Comment=+Vcc
+Change Component Comment : Designator=P7 Old Comment=334-10-101-00-020000 New Comment=+VCC
+Change Component Comment : Designator=P6 Old Comment=334-10-101-00-020000 New Comment=Pot Read 1
+Change Component Comment : Designator=P4 Old Comment=334-10-101-00-020000 New Comment=Pot Read 2
+Added Component: Designator=R1(FP-MRS25-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Metal Film, Thin Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Diameter"; Value = "600µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "6.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "600mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "42757237"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape & Reel (TR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "600mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8533210090, 8533210090"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "50ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "350V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "350V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.5mm"; VariantName = "[No Variations]"
+Added Component: Designator=R2(FP-MRS25-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Metal Film, Thin Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Diameter"; Value = "600µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "6.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "600mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "42757237"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape & Reel (TR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "600mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8533210090, 8533210090"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "50ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "350V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "350V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.5mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P8-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetBut1_2 Pin=P1-1
+Added Net: Name=NetBut1_2
+Added Pin To Net: NetName=NetP4_1 Pin=P4-1
+Added Pin To Net: NetName=NetP4_1 Pin=Pot2-2
+Added Pin To Net: NetName=NetP4_1 Pin=R2-1
+Added Net: Name=NetP4_1
+Added Pin To Net: NetName=NetP6_1 Pin=P6-1
+Added Pin To Net: NetName=NetP6_1 Pin=Pot1-2
+Added Pin To Net: NetName=NetP6_1 Pin=R1-1
+Added Net: Name=NetP6_1
+Added Pin To Net: NetName=VCC Pin=P5-1
+Added Pin To Net: NetName=VCC Pin=P7-1
+Added Pin To Net: NetName=VCC Pin=Pot1-1
+Added Pin To Net: NetName=VCC Pin=Pot2-3
+Added Net: Name=VCC
+Add Class Member: Failed to add class member : Component But1 PB6B2HS2M1CAL00
+Add Class Member: Failed to add class member : Component But2 PB6B2HS2M1CAL00
+Added Member To Class: ClassName=PCB_Steering_Wheel_REDO Member=Component R1
+Added Member To Class: ClassName=PCB_Steering_Wheel_REDO Member=Component R2
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1

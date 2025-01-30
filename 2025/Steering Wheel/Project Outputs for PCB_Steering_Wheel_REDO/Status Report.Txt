@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [PCB_Steering_Wheel_REDO.PcbDoc]
+   Generated File[PCB_Steering_Wheel_REDO-RoundHoles.TXT]
+   Generated File[PCB_Steering_Wheel_REDO-SlotHoles.TXT]
+   Generated File[PCB_Steering_Wheel_REDO-RectHoles.TXT]
+   Generated File[PCB_Steering_Wheel_REDO.LDP]
+   Generated File[PCB_Steering_Wheel_REDO.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 7:32:02 PM On 1/14/2025

@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=B1 Old Footprint=PB6B2HS2M1CAL00-Footprint-1 New Footprint=PB6B2HS2M1CAL00-Footprint-1
+Change Component Footprint: Designator=B2 Old Footprint=PB6B2HS2M1CAL00-Footprint-1 New Footprint=PB6B2HS2M1CAL00-Footprint-1
+Change Managed Component Library Link : Designator=B1 Old VaultGUID=0845BA95-A36E-405D-81AD-0BCA3A2B2CDB New VaultGUID=0845BA95-A36E-405D-81AD-0BCA3A2B2CDB Old ItemGUID=a1626b74-2e66-44ad-b606-3a836396d448 New ItemGUID=a1626b74-2e66-44ad-b606-3a836396d448 Old RevisionGUID=e970fab6-2c9d-47d5-9697-c5023ee64bda New RevisionGUID=00f11526-8098-44cb-8070-374b269aef15
+Change Managed Component Library Link : Designator=B2 Old VaultGUID=0845BA95-A36E-405D-81AD-0BCA3A2B2CDB New VaultGUID=0845BA95-A36E-405D-81AD-0BCA3A2B2CDB Old ItemGUID=a1626b74-2e66-44ad-b606-3a836396d448 New ItemGUID=a1626b74-2e66-44ad-b606-3a836396d448 Old RevisionGUID=e970fab6-2c9d-47d5-9697-c5023ee64bda New RevisionGUID=00f11526-8098-44cb-8070-374b269aef15
+Add Pin To Net: Unknown Pin: Pin Pot1-4
+Add Pin To Net: Unknown Pin: Pin Pot2-4
