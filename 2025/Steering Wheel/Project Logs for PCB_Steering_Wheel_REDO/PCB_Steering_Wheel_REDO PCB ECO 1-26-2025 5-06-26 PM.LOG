@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=Accel Old DesignItemId=CMP-010-00024-1 New DesignItemId=CMP-010-00024-2
+Change Managed Component Library Link : Designator=Accel Old VaultGUID=0845BA95-A36E-405D-81AD-0BCA3A2B2CDB New VaultGUID=0845BA95-A36E-405D-81AD-0BCA3A2B2CDB Old ItemGUID=2dda588c-5574-4d41-870a-cb68808fb58b New ItemGUID=2dda588c-5574-4d41-870a-cb68808fb58b Old RevisionGUID=6258efed-8b19-4ea1-8c29-d8ac57037c51 New RevisionGUID=58dcdaf4-daac-40f6-aad6-abd077d62e15
+Added Pin To Net: NetName=VCC Pin=Accel-1
+Added Pin To Net: NetName=GND Pin=Accel-3
+Added Pin To Net: NetName=SDA Pin=Accel-5
+Added Pin To Net: NetName=VCC Pin=Accel-9

@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\lbawd\OneDrive\Desktop\Altium\Formula E\PCB_Steering_Wheel_REDO\PCB_Steering_Wheel_REDO.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_steering_wheel_redo-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb_steering_wheel_redo-slotholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=pcb_steering_wheel_redo-rectholes.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=P? Old Footprint=JST-B3P-VH(LF)(SN)-3_V New Footprint=FCI-68021-210HLF-10_V
+Change Component Comment : Designator=P? Old Comment=B3P-VH(LF)(SN) New Comment=68021-210HLF
+Change Managed Component Library Link : Designator=P? Old VaultGUID=0845BA95-A36E-405D-81AD-0BCA3A2B2CDB New VaultGUID=0845BA95-A36E-405D-81AD-0BCA3A2B2CDB Old ItemGUID=2F1525A8-F43E-418E-818F-78F025D4A6B8 New ItemGUID=34061903-306B-4742-A341-C2733F12FA05 Old RevisionGUID=3160E28B-4F9C-4E2F-9E8D-7AAD8869BE03 New RevisionGUID=24D742A8-5316-413D-9770-C3657A0C70DC
+Change component parameters: Designator = "P?" ("P?"); Footprint = "JST-B3P-VH(LF)(SN)-3_V"; UniqueID = "\IGPHJMAE" ("\IGPHJMAE")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "68021-210HLF-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://portal.fciconnect.com/Comergent//fci/drawing/68020.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. BM, 04/2015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FCI Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://portal.fciconnect.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 2.54 mm, 2 x 5 Position, Height 4.83 mm, Tail Length 3.05 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "68021-210HLF-10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
