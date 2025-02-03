@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=TX Pin=GPS-5
+Added Pin To Net: NetName=RX Pin=GPS-6
+Added Pin To Net: NetName=GND Pin=GPS-7
+Added Pin To Net: NetName=5V Pin=GPS-8
