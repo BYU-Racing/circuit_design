@@ -83,6 +83,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ICRFUKCO
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for BlackBox-LORA\Design Rule Check - BlackBox-LORA.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
