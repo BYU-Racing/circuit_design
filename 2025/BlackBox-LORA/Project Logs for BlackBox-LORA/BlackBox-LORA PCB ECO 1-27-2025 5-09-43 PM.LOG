@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=GND Pin=LoRA-6
+Add Component: Footprint Not Found TE_DT13-6P
+Add Component: Footprint Not Found CAN Module-Footprint-1
+Add Component: Footprint Not Found CAN Module-Footprint-1
+Add Component: Footprint Not Found MODULE_DEV-16771
+Add Pin To Net: Unknown Pin: Pin 6P-1
+Add Pin To Net: Unknown Pin: Pin 6P-2
+Add Pin To Net: Unknown Pin: Pin 6P-3
+Add Pin To Net: Unknown Pin: Pin 6P-4
+Add Pin To Net: Unknown Pin: Pin 6P-5
+Add Pin To Net: Unknown Pin: Pin 6P-6
+Add Pin To Net: Unknown Pin: Pin CAN Data-1
+Add Pin To Net: Unknown Pin: Pin CAN Data-2
+Add Pin To Net: Unknown Pin: Pin CAN Data-3
+Add Pin To Net: Unknown Pin: Pin CAN Data-4
+Add Pin To Net: Unknown Pin: Pin CAN Data-5
+Add Pin To Net: Unknown Pin: Pin CAN Data-6
+Add Pin To Net: Unknown Pin: Pin CAN Motor-1
+Add Pin To Net: Unknown Pin: Pin CAN Motor-2
+Add Pin To Net: Unknown Pin: Pin CAN Motor-3
+Add Pin To Net: Unknown Pin: Pin CAN Motor-4
+Add Pin To Net: Unknown Pin: Pin CAN Motor-5
+Add Pin To Net: Unknown Pin: Pin CAN Motor-6
+Add Pin To Net: Unknown Pin: Pin Teensy4.1-0
+Add Pin To Net: Unknown Pin: Pin Teensy4.1-1
+Add Pin To Net: Unknown Pin: Pin Teensy4.1-3.3V_1
+Add Pin To Net: Unknown Pin: Pin Teensy4.1-10
+Add Pin To Net: Unknown Pin: Pin Teensy4.1-11
+Add Pin To Net: Unknown Pin: Pin Teensy4.1-12
+Add Pin To Net: Unknown Pin: Pin Teensy4.1-13
+Add Pin To Net: Unknown Pin: Pin Teensy4.1-22
+Add Pin To Net: Unknown Pin: Pin Teensy4.1-23
+Add Pin To Net: Unknown Pin: Pin Teensy4.1-GND1
+Add Pin To Net: Unknown Pin: Pin Teensy4.1-VIN
