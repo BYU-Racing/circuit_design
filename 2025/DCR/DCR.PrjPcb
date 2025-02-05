@@ -83,6 +83,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VTNRJXOC
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for DCR\Design Rule Check - DCR.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
