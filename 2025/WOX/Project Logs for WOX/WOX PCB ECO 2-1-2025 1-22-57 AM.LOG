@@ -1,0 +1,14 @@
+Added Component: Designator=CAN Module(CAN Module-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CTX2 Pin=CAN Module-1
+Added Pin To Net: NetName=CRX2 Pin=CAN Module-2
+Added Pin To Net: NetName=GND Pin=CAN Module-3
+Added Pin To Net: NetName=3.3V Pin=CAN Module-4
+Added Pin To Net: NetName=CANH Pin=CAN Module-5
+Added Pin To Net: NetName=CANL Pin=CAN Module-6
+Added Member To Class: ClassName=WOX Member=Component CAN Module

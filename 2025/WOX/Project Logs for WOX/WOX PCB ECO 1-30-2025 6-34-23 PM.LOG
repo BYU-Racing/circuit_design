@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=GND Pin=2P-2
+Added Pin To Net: NetName=GND Pin=4P-4
+Added Pin To Net: NetName=GND Pin=CAN Module-1
+Added Pin To Net: NetName=GND Pin=Teensy4.0-16
+Added Pin To Net: NetName=GND Pin=VReg-4
+Added Net: Name=GND
+Added Rule: Name=Schematic Supply Nets
