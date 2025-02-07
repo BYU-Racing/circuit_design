@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DT13_6P'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "TE Connectivity", "DT13-6P" (!) = "", "DT13-6P", "Other", "571-DT13-6P", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-DEUTSCH/DT13-6P?qs=vkMqrgFpRajx%2FDSFtsLl9w%3D%3D", "", "", "Body Features: Primary Product Color Gray | Configuration Features: Number of Sections 1 | PCB Mount Orientation Right Angle | Number of Positions 6 | Number of Rows 2 | Number of Signal Positions 6 | Contact Features: Contact Size Size 16 | Contact Mating Area Plating Material Nickel | Mating Pin Diameter 1.59 MM | Mating Pin Diameter .063 INCH | Contact Current Rating (Max) 13 AMP | Contact Type Pin | Dimensions: Connector Width 1.685 INCH | PCB Thickness (Recommended) .031  .093 INCH | Profile Height ", "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773962-8&DocType=Data%20Sheet&DocLang=English&PartCntxt=DT13-6P&DocFormat=pdf"
+END_PART
+
+END.

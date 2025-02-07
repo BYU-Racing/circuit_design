@@ -1,0 +1,192 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "DT13-4P"
+   (description "Body Features: Primary Product Color Gray | Configuration Features: Number of Sections 1 | Number of Rows 2 | PCB Mount Orientation Right Angle | Number of Positions 4 | Number of Signal Positions 4 | Contact Features: Contact Size Size 16 | Contact Current Rating (Max) 13 AMP | Contact Type Pin | Mating Pin Diameter 1.59 MM | Mating Pin Diameter .063 INCH | Contact Mating Area Plating Material Nickel | Dimensions: PCB Thickness (Recommended) .78  2.36 MM | Profile Height from PCB 1.388 INCH | Connector ")
+   (family "CON")
+   (package "DT134P")
+   (attribute "Datasheet Link" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773962-8&DocType=Data%20Sheet&DocLang=English&PartCntxt=DT13-4P&DocFormat=pdf")
+   (attribute "Geometry.Height" "36.12mm")
+   (attribute "Manufacturer_Name" "TE Connectivity")
+   (attribute "Manufacturer_Part_Number" "DT13-4P")
+   (attribute "Mouser Part Number" "571-DT13-4P")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-DEUTSCH/DT13-4P?qs=vkMqrgFpRajaLeBfOZKzWQ%3D%3D")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "DT13-4P")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+    (pin "MH1" MH1 PS)
+    (pin "MH2" MH2 PS)
+    (pin "MH3" MH3 PS)
+   )
+  )
+  (symbol "DT13-4P"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 700 100) (pt 700 -400) (pt 200 -400) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "DT134P"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -10.49 3.04)
+      (pt 14.94 3.04)
+      (pt 14.94 -7.15)
+      (pt -10.49 -7.15)
+      (pt -10.49 3.04))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -17.95 4.8)
+      (pt 22.4 4.8)
+      (pt 22.4 -37.46)
+      (pt -17.95 -37.46)
+      (pt -17.95 4.8))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -10.49 -7.15)
+      (pt -16.95 -7.15)
+      (pt -16.95 -21.85)
+      (pt 21.4 -21.85)
+      (pt 21.4 -7.15)
+      (pt 14.94 -7.15))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -8.19 -21.85)
+      (pt -8.19 -36.46)
+      (pt 12.64 -36.46)
+      (pt 12.64 -21.85))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -10.49 -7.15)
+      (pt -16.95 -7.24)
+      (pt -16.95 -21.85)
+      (pt 21.4 -21.85)
+      (pt 21.4 -7.15)
+      (pt 14.94 -7.15))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -2.775 -7.15)
+      (pt -10.49 -7.15)
+      (pt -10.49 3.04)
+      (pt 14.94 3.04)
+      (pt 14.94 -7.15)
+      (pt 7.225 -7.15))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -0 3.6)
+      (arc (pt -0.000 3.600) (pt -0.100 3.600) (pt 0.100 3.800) (start 180.0) (sweep -90.0))
+      (pt -0 3.8)
+      (arc (pt -0.000 3.800) (pt -0.100 3.600) (pt 0.100 3.800) (start 180.0) (sweep 90.0))
+      (pt -0 3.6))))
+   (leg 1 (pt -0.000 -0.000) (padstack 0))
+   (leg 2 (pt 4.450 -0.000) (padstack 0))
+   (leg 3 (pt 4.450 -6.350) (padstack 0))
+   (leg 4 (pt -0.000 -6.350) (padstack 0))
+   (leg MH1 (pt -6.425 -1.020) (padstack 5))
+   (leg MH2 (pt 10.875 -1.020) (padstack 6))
+   (leg MH3 (pt 2.225 -12.450) (padstack 7))
+   (padstack 0
+    (hole 1.76)
+    (plated true)
+    (pad (layer TCOP) (round 2.640))
+    (pad (layer INNER) (round 2.640))
+    (pad (layer BCOP) (round 2.640))
+   )
+   (padstack 5
+    (hole 2.99)
+    (plated true)
+    (pad (layer TCOP) (round 4.485))
+    (pad (layer INNER) (round 4.485))
+    (pad (layer BCOP) (round 4.485))
+   )
+   (padstack 6
+    (hole 2.99)
+    (plated true)
+    (pad (layer TCOP) (round 4.485))
+    (pad (layer INNER) (round 4.485))
+    (pad (layer BCOP) (round 4.485))
+   )
+   (padstack 7
+    (hole 2.99)
+    (plated true)
+    (pad (layer TCOP) (round 4.485))
+    (pad (layer INNER) (round 4.485))
+    (pad (layer BCOP) (round 4.485))
+   )
+   (model "DT13-4P.stp"
+    (euler 90 0 0)
+    (offset 0.7099999785423279 -36.47999954223633 17.920000076293945)
+   )
+  )
+ )
+)

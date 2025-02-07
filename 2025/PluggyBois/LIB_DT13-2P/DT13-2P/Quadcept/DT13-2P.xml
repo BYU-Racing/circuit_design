@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/276916/1598366/2.50/5/2/Connector/-->
+<quadcept_library>
+  <setting unit="mil" />
+  <textstyle name="Default" height="47.244094488189" strokewidth="7.8740157480315" charwidth="47.244094488189" />
+  <textstyle name="Dimension" height="19.6850393700787" strokewidth="0" charwidth="19.6850393700787" />
+  <textstyle name="H127W0635TH00762" height="50" strokewidth="3" charwidth="25" />
+  <textstyle name="H15W15TH02" height="59.0551181102362" strokewidth="7.8740157480315" charwidth="59.0551181102362" />
+  <padstyle name="c448.5_h299" surface="False" plated="True" isvia="False" nopaste="True" nomask="True" complex="False" holesize="117.71653543307">
+    <padshape layer="TOP" shape="round" width="176.5748031496" height="176.5748031496" />
+    <padshape layer="TOP_SOLDER_MASK" shape="round" width="184.44881889764" height="184.44881889764" />
+    <padshape layer="INNER" shape="round" width="176.5748031496" height="176.5748031496" />
+    <padshape layer="BOTTOM" shape="round" width="176.5748031496" height="176.5748031496" />
+    <padshape layer="BOTTOM_SOLDER_MASK" shape="round" width="184.44881889764" height="184.44881889764" />
+  </padstyle>
+  <padstyle name="c234_h156" surface="False" plated="True" isvia="False" nopaste="True" nomask="True" complex="False" holesize="61.417322834645">
+    <padshape layer="TOP" shape="round" width="92.125984251967" height="92.125984251967" />
+    <padshape layer="TOP_SOLDER_MASK" shape="round" width="99.999999999999" height="99.999999999999" />
+    <padshape layer="INNER" shape="round" width="92.125984251967" height="92.125984251967" />
+    <padshape layer="BOTTOM" shape="round" width="92.125984251967" height="92.125984251967" />
+    <padshape layer="BOTTOM_SOLDER_MASK" shape="round" width="99.999999999999" height="99.999999999999" />
+  </padstyle>
+  <footprint name="DT132P" originx="0" originy="0" pickpointx="0" pickpointy="0">
+    <pcbpin number="1" name="1" style="c234_h156" originx="0" originy="0" rotation="90" />
+    <pcbpin number="2" name="2" style="c234_h156" originx="0" originy="-214.96062992126" rotation="90" />
+    <pcbpin number="3" name="3" style="c448.5_h299" originx="74.803149606298" originy="252.95275590551" rotation="90" />
+    <pcbpin number="4" name="4" style="c448.5_h299" originx="74.803149606298" originy="-467.91338582677" rotation="90" />
+    <pcbpin number="5" name="5" style="c448.5_h299" originx="-240.15748031496" originy="-107.48031496063" rotation="90" />
+    <line layer="TOP_ASSEMBLY" originx="-31.496062992126" originy="412.99212598425" endx="234.64566929134" endy="412.99212598425" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="234.64566929134" originy="412.99212598425" endx="234.64566929134" endy="-627.9527559055" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="234.64566929134" originy="-627.9527559055" endx="-31.496062992126" endy="-627.9527559055" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="-31.496062992126" originy="-627.9527559055" endx="-31.496062992126" endy="412.99212598425" width="7.8740157480314" />
+    <line layer="TOP_PLACE_BOUND" originx="-1224.8031496063" originy="626.968503937" endx="274.01574803149" endy="626.968503937" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="274.01574803149" originy="626.968503937" endx="274.01574803149" endy="-841.92913385826" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="274.01574803149" originy="-841.92913385826" endx="-1224.8031496063" endy="-841.92913385826" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="-1224.8031496063" originy="-841.92913385826" endx="-1224.8031496063" endy="626.968503937" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="-31.496062992126" originy="252.95275590551" endx="-346.45669291338" endy="252.95275590551" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="-346.45669291338" originy="252.95275590551" endx="-346.45669291338" endy="-467.91338582677" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="-346.45669291338" originy="-467.91338582677" endx="-31.496062992126" endy="-467.91338582677" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="7.8740157480314" originy="412.99212598425" endx="7.8740157480314" endy="587.59842519684" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="7.8740157480314" originy="587.59842519684" endx="-610.23622047243" endy="587.59842519684" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="-610.23622047243" originy="587.59842519684" endx="-610.23622047243" endy="-802.5590551181" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="-610.23622047243" originy="-802.5590551181" endx="47.244094488188" endy="-802.5590551181" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="47.244094488188" originy="-802.5590551181" endx="47.244094488188" endy="-627.9527559055" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="-610.23622047243" originy="-442.51968503936" endx="-1185.4330708661" endy="-442.51968503936" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="-1185.4330708661" originy="-442.51968503936" endx="-1185.4330708661" endy="227.55905511811" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="-1185.4330708661" originy="227.55905511811" endx="-610.23622047243" endy="227.55905511811" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="47.244094488188" originy="-627.9527559055" endx="47.244094488188" endy="-802.5590551181" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="47.244094488188" originy="-802.5590551181" endx="-610.23622047243" endy="-802.5590551181" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="-610.23622047243" originy="-802.5590551181" endx="-610.23622047243" endy="-442.12598425196" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="-610.23622047243" originy="-442.12598425196" endx="-1185.4330708661" endy="-442.12598425196" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="-1185.4330708661" originy="-442.12598425196" endx="-1185.4330708661" endy="227.55905511811" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="-1185.4330708661" originy="227.55905511811" endx="-610.23622047243" endy="227.55905511811" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="-610.23622047243" originy="227.55905511811" endx="-610.23622047243" endy="587.59842519684" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="-610.23622047243" originy="587.59842519684" endx="7.8740157480314" endy="587.59842519684" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="7.8740157480314" originy="587.59842519684" endx="7.8740157480314" endy="412.99212598425" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="7.8740157480314" originy="412.99212598425" endx="234.64566929134" endy="412.99212598425" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="234.64566929134" originy="412.99212598425" endx="234.64566929134" endy="-627.9527559055" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="234.64566929134" originy="-627.9527559055" endx="47.244094488188" endy="-627.9527559055" width="3.9370078740157" />
+  </footprint>
+  <symbol name="DT13-2P" originx="0" originy="0">
+    <line originx="200" originy="100" endx="600" endy="100" width="0" />
+    <line originx="600" originy="-300" endx="600" endy="100" width="0" />
+    <line originx="600" originy="-300" endx="200" endy="-300" width="0" />
+    <line originx="200" originy="100" endx="200" endy="-300" width="0" />
+    <sympin number="1" originx="200" originy="0" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="0" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="1" />
+      <text name="pindes" originx="140" originy="20" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="1" />
+    </sympin>
+    <sympin number="2" originx="200" originy="-100" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-100" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="2" />
+      <text name="pindes" originx="140" originy="-80" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="2" />
+    </sympin>
+    <sympin number="3" originx="200" originy="-200" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-200" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="3" />
+      <text name="pindes" originx="140" originy="-180" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="3" />
+    </sympin>
+    <sympin number="4" originx="600" originy="0" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="570" originy="0" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="4" />
+      <text name="pindes" originx="660" originy="20" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="4" />
+    </sympin>
+    <sympin number="5" originx="600" originy="-100" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="570" originy="-100" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="5" />
+      <text name="pindes" originx="660" originy="-80" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="5" />
+    </sympin>
+  </symbol>
+  <component name="DT13-2P" designatorprefix="J" height="1079.9212598425" footprint="DT132P">
+    <comppin designator="1" sympin="1" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="1" />
+    <comppin designator="2" sympin="2" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="2" />
+    <comppin designator="3" sympin="3" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="3" />
+    <comppin designator="4" sympin="4" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="4" />
+    <comppin designator="5" sympin="5" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="5" />
+    <attached_symbol gate="1" name="DT13-2P" />
+    <pinmap designator="1" footprintpin="1" />
+    <pinmap designator="2" footprintpin="2" />
+    <pinmap designator="3" footprintpin="3" />
+    <pinmap designator="4" footprintpin="4" />
+    <pinmap designator="5" footprintpin="5" />
+    <text name="Datasheet" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=1-1773962-8&amp;DocType=Data Sheet&amp;DocLang=English&amp;PartCntxt=DT13-2P&amp;DocFormat=pdf" />
+    <text name="Description" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="Body Features: Primary Product Color Gray | Configuration Features: Number of Sections 1 | PCB Mount Orientation Right Angle | Number of Positions 2 | Number of Signal Positions 2 | Number of Rows 1 | Contact Features: Contact Type Pin | Mating Pin Diameter 1.59 MM | Contact Mating Area Plating Material Nickel | Contact Current Rating (Max) 13 AMP | Mating Pin Diameter .063 INCH | Contact Size Size 16 | Dimensions: Connector Width 35.31 MM | Profile Height from PCB 1.08 INCH | PCB Thickness (Recommended) .0" />
+    <text name="Manufacturer_Name" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="TE Connectivity" />
+    <text name="Manufacturer_Part_Number" originx="650" originy="200" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="DT13-2P" />
+    <text name="Mouser Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="571-DT13-2P" />
+    <text name="Mouser Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.mouser.co.uk/ProductDetail/TE-Connectivity-DEUTSCH/DT13-2P?qs=vkMqrgFpRaiZ8Y45n18x4A%3D%3D" />
+    <text name="Arrow Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="DT13-2P" />
+    <text name="Arrow Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.arrow.com/en/products/dt13-2p/te-connectivity" />
+  </component>
+</quadcept_library>
