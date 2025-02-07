@@ -13,13 +13,11 @@ From  : Variant [[No Variations]] of Project [BlackBox-LORA.PrjPcb]
    Generated File[BlackBox-LORA_Profile.gbr]
    Generated File[BlackBox-LORA_NPTH_Drill.gbr]
    Generated File[BlackBox-LORA_PTH_Drill.gbr]
-   Generated File[BlackBox-LORA_Drawing_1.gbr]
-   Generated File[BlackBox-LORA_Drillmap_1.gbr]
    Generated File[BlackBox-LORA.EXTREP]
    Generated File[BlackBox-LORA.REP]
 
 
-Files Generated   : 16
+Files Generated   : 14
 Documents Printed : 0
 
-Finished Output Generation At 9:32:40 PM On 2/5/2025
+Finished Output Generation At 8:53:15 PM On 2/6/2025
