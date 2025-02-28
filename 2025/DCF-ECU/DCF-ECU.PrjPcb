@@ -100,40 +100,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PIVVAGUI
 
-[Document4]
-DocumentPath=CAM_Fixed.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
-DocumentPath=Proto_Schematic.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YFGJPHNW
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for DCF-ECU\DCF-ECU.EXTREP
 DItemRevisionGUID=
@@ -143,62 +109,6 @@ DocumentPath=Project Outputs for DCF-ECU\DCF-ECU.REP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for DCF-ECU\DCF-ECU_Copper_Signal_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for DCF-ECU\DCF-ECU_Copper_Signal_2.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for DCF-ECU\DCF-ECU_Copper_Signal_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for DCF-ECU\DCF-ECU_Copper_Signal_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for DCF-ECU\DCF-ECU_Keep-out.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for DCF-ECU\DCF-ECU_Legend_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for DCF-ECU\DCF-ECU_Legend_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for DCF-ECU\DCF-ECU_NPTH_Drill.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for DCF-ECU\DCF-ECU_Paste_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for DCF-ECU\DCF-ECU_Paste_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for DCF-ECU\DCF-ECU_Profile.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for DCF-ECU\DCF-ECU_PTH_Drill.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for DCF-ECU\DCF-ECU_Soldermask_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for DCF-ECU\DCF-ECU_Soldermask_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument17]
 DocumentPath=Project Outputs for DCF-ECU\Design Rule Check - DCF-ECU.html
 DItemRevisionGUID=
 
