@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=12V Pin=9V P5-1
+Removed Pin From Net: NetName=GND Pin=9V P5-3
+Removed Member From Class: ClassName=BSPD Member=9V P5
+Added Pin To Net: NetName=GND Pin=AND-5
+Added Pin To Net: NetName=GND Pin=AND-6
+Added Pin To Net: NetName=GND Pin=AND-8
+Added Pin To Net: NetName=GND Pin=AND-9
+Added Pin To Net: NetName=GND Pin=AND-12
+Added Pin To Net: NetName=GND Pin=AND-13
+Added Pin To Net: NetName=GND Pin=NOR-5
+Added Pin To Net: NetName=GND Pin=NOR-6
+Added Pin To Net: NetName=GND Pin=NOR-8
+Added Pin To Net: NetName=GND Pin=NOR-9
+Added Pin To Net: NetName=GND Pin=NOR-12
+Added Pin To Net: NetName=GND Pin=NOR-13
+Added Pin To Net: NetName=GND Pin=OR-12
+Added Pin To Net: NetName=GND Pin=OR-13
+Added Pin To Net: NetName=9V Pin=9V P2-2
+Added Pin To Net: NetName=9V Pin=COMP1-6
+Added Pin To Net: NetName=9V Pin=COMP3-2
+Added Net: Name=9V

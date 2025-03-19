@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=12V Pin=5.1V P3-1
+Removed Pin From Net: NetName=5V Pin=5V Reg-2
+Removed Pin From Net: NetName=12V Pin=9V P2-1
+Removed Pin From Net: NetName=9V Pin=9V P2-2
+Removed Pin From Net: NetName=12V Pin=AND-14
+Removed Pin From Net: NetName=5V Pin=C2VR1-1
+Removed Pin From Net: NetName=12V Pin=NOR-14
+Removed Pin From Net: NetName=12V Pin=OR-14
+Removed Pin From Net: NetName=5V Pin=R1VR1-2
+Change Component Designator: OldDesignator=5V Reg NewDesignator=11V Reg
+Change Component Designator: OldDesignator=9V P2 NewDesignator=5V P2
+Added Component: Designator=9V(FP-3296W-MFG)
+Add component (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "4.83mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "9.53mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Turns"; Value = "25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Cermet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "3296"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = "Linear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "CERMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.03oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "9.53mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=9V Pin=5.1V P3-1
+Added Pin To Net: NetName=5V Pin=5V P2-2
+Added Pin To Net: NetName=9V Pin=9V-2
+Added Pin To Net: NetName=GND Pin=9V-3
+Added Pin To Net: NetName=11V Pin=5V P2-1
+Added Pin To Net: NetName=11V Pin=9V-1
+Added Pin To Net: NetName=11V Pin=11V Reg-2
+Added Pin To Net: NetName=11V Pin=AND-14
+Added Pin To Net: NetName=11V Pin=C2VR1-1
+Added Pin To Net: NetName=11V Pin=NOR-14
+Added Pin To Net: NetName=11V Pin=OR-14
+Added Pin To Net: NetName=11V Pin=R1VR1-2
+Added Net: Name=11V
+Added Member To Class: ClassName=BSPD Member=Component 9V 3296W-1-103LF
