@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=A2 Pin=R6-1
-Removed Member From Class: ClassName=DCF-ECU Member=R6
-Added Pin To Net: NetName=A2 Pin=4P T2-3

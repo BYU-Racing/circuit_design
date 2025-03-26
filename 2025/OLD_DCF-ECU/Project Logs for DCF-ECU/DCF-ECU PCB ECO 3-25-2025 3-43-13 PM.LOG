@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=CRX21 Pin=CAN Data 1-1
+Removed Pin From Net: NetName=CTX21 Pin=CAN Data 1-2
+Removed Pin From Net: NetName=CRX10 Pin=CAN Motor 2-1
+Removed Pin From Net: NetName=CTX10 Pin=CAN Motor 2-2
+Added Pin To Net: NetName=CTX21 Pin=CAN Data 1-1
+Added Pin To Net: NetName=CRX21 Pin=CAN Data 1-2
+Added Pin To Net: NetName=CTX10 Pin=CAN Motor 2-1
+Added Pin To Net: NetName=CRX10 Pin=CAN Motor 2-2
