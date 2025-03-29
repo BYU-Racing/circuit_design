@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=12V Pin=R1-1
+Added Pin To Net: NetName=12V Pin=VReg-2
+Added Net: Name=12V
+Added Pin To Net: NetName=jeff Pin=4P-2
+Added Pin To Net: NetName=jeff Pin=R1-2
+Added Net: Name=jeff

@@ -1,0 +1,23 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [WOX.PrjPcb]
+   Generated File[WOX_Copper_Signal_Top.gbr]
+   Generated File[WOX_Copper_Signal_Bot.gbr]
+   Generated File[WOX_Legend_Top.gbr]
+   Generated File[WOX_Legend_Bot.gbr]
+   Generated File[WOX_Soldermask_Top.gbr]
+   Generated File[WOX_Soldermask_Bot.gbr]
+   Generated File[WOX_Paste_Top.gbr]
+   Generated File[WOX_Paste_Bot.gbr]
+   Generated File[WOX_Keep-out.gbr]
+   Generated File[WOX_Profile.gbr]
+   Generated File[WOX_NPTH_Drill.gbr]
+   Generated File[WOX_PTH_Drill.gbr]
+   Generated File[WOX.EXTREP]
+   Generated File[WOX.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 11:33:53 PM On 2/5/2025
