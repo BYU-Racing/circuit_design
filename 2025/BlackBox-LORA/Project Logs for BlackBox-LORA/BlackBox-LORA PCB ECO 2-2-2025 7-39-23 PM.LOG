@@ -1,0 +1,28 @@
+Added Component: Designator=CAN Data(CAN Module-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CAN Motor(CAN Module-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCAN Data_1 Pin=CAN Data-1
+Added Pin To Net: NetName=NetCAN Data_2 Pin=CAN Data-2
+Added Pin To Net: NetName=GND Pin=CAN Data-3
+Added Pin To Net: NetName=3VCC Pin=CAN Data-4
+Added Pin To Net: NetName=Net6P_5 Pin=CAN Data-5
+Added Pin To Net: NetName=Net6P_6 Pin=CAN Data-6
+Added Pin To Net: NetName=NetCAN Motor_1 Pin=CAN Motor-1
+Added Pin To Net: NetName=NetCAN Motor_2 Pin=CAN Motor-2
+Added Pin To Net: NetName=GND Pin=CAN Motor-3
+Added Pin To Net: NetName=3VCC Pin=CAN Motor-4
+Added Pin To Net: NetName=Net6P_4 Pin=CAN Motor-5
+Added Pin To Net: NetName=Net6P_3 Pin=CAN Motor-6
+Added Member To Class: ClassName=BlackBox-LORA Member=Component CAN Data CAN Module
+Added Member To Class: ClassName=BlackBox-LORA Member=Component CAN Motor CAN Module
