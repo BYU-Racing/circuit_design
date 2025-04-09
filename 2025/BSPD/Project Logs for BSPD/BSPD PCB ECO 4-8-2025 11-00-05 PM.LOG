@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=5V Pin=4V P4-1
+Removed Pin From Net: NetName=9V Pin=5.1V P3-1
+Removed Pin From Net: NetName=11V Pin=5V P2-1
+Removed Pin From Net: NetName=5V Pin=5V P2-2
+Removed Pin From Net: NetName=11V Pin=9V-1
+Removed Pin From Net: NetName=11V Pin=AND-14
+Removed Pin From Net: NetName=GND Pin=C1VR2-2
+Removed Pin From Net: NetName=GND Pin=C2VR2-2
+Removed Pin From Net: NetName=11V Pin=NOR-14
+Removed Pin From Net: NetName=11V Pin=OR-14
+Removed Pin From Net: NetName=GND Pin=R2VR2-1
+Removed Member From Class: ClassName=BSPD Member=2V Reg
+Removed Member From Class: ClassName=BSPD Member=C1VR2
+Removed Member From Class: ClassName=BSPD Member=C2VR2
+Removed Member From Class: ClassName=BSPD Member=R1VR2
+Removed Member From Class: ClassName=BSPD Member=R2VR2
+Change Component Designator: OldDesignator=5.1V P3 NewDesignator=TBD P3
+Change Component Designator: OldDesignator=11V Reg NewDesignator=10V Reg
+Added Pin To Net: NetName=11V Pin=0.1V P1-1
+Added Pin To Net: NetName=11V Pin=0.1V P6-1
+Added Pin To Net: NetName=11V Pin=4V P4-1
+Added Pin To Net: NetName=5V Pin=5V P2-1
+Added Pin To Net: NetName=9V Pin=5V P2-2
+Added Pin To Net: NetName=5V Pin=9V-1
+Added Pin To Net: NetName=5V Pin=10V Reg-3
+Added Pin To Net: NetName=5V Pin=AND-14
+Added Pin To Net: NetName=5V Pin=C1VR1-1
+Added Pin To Net: NetName=5V Pin=NOR-14
+Added Pin To Net: NetName=5V Pin=OR-14
+Added Pin To Net: NetName=5V Pin=Plug-5
+Added Pin To Net: NetName=11V Pin=TBD P3-1
+Change Net Name : Old Net Name=5V New Net Name=12V
+Change Net Name : Old Net Name=11V New Net Name=6V
