@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: BSPD.GBR   3/19/2025  12:23:20 AM
+Gerber File Extension Report For: BSPD.GBR   4/10/2025  8:30:53 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -7,8 +7,6 @@ Gerber File Extension Report For: BSPD.GBR   3/19/2025  12:23:20 AM
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
 .gbr                Top Layer                               
-.gbr                5V                                      
-.gbr                Bottom Side                             
 .gbr                Bottom Layer                            
 .gbr                Top Overlay                             
 .gbr                Bottom Overlay                          
