@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=Brake Pressure Sensor Pin=COMP2-5
+Removed Pin From Net: NetName=4V Pin=COMP2-6
+Change Component Comment : Designator=R2VR1 Old Comment=140 New Comment=3k
+Change Component Designator: OldDesignator=0.1V P6 NewDesignator=0.1V P4
+Change Component Designator: OldDesignator=4V P4 NewDesignator=4V P3
+Change Component Designator: OldDesignator=9V NewDesignator=9V P1
+Change Component Designator: OldDesignator=TBD P3 NewDesignator=TBD P2
+Added Pin To Net: NetName=4V Pin=COMP2-5
+Added Pin To Net: NetName=Brake Pressure Sensor Pin=COMP2-6
