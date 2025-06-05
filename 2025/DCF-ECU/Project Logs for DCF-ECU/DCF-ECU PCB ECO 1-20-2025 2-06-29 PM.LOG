@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=5V Pin=Teensy4.1-5V
-Removed Pin From Net: NetName=GND Pin=VReg-1
-Removed Pin From Net: NetName=5V Pin=VReg-2
-Added Pin To Net: NetName=12V Pin=VReg-2
-Added Pin To Net: NetName=5V Pin=VReg-3
-Added Pin To Net: NetName=GND Pin=VReg-4

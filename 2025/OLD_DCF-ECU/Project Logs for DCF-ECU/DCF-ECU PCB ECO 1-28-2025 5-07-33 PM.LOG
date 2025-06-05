@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=3.3V0 Pin=CAN Data 1-4
+Removed Pin From Net: NetName=3.3V1 Pin=CAN Motor 2-4
+Added Pin To Net: NetName=3.3V1 Pin=CAN Data 1-4
+Added Pin To Net: NetName=3.3V0 Pin=CAN Motor 2-4
