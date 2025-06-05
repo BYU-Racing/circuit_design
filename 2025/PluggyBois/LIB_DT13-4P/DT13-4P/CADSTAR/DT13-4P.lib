@@ -1,0 +1,19 @@
+.DT13-4P :1 ;Body Features: Primary Product Color Gray | Configuration Features: Number of Sections 1 | Number of Rows 2 | PCB Mount Orientation Right Angle | Number of Positions 4 | Number of Signal Positions 4 | Contact Features: Contact Size Size 16 | Contact Current Rating (Max) 13 AMP | Contact Type Pin | Mating Pin Diameter 1.59 MM | Mating Pin Diameter .063 INCH | Contact Mating Area Plating Material Nickel | Dimensions: PCB Thickness (Recommended) .78  2.36 MM | Profile Height from PCB 1.388 INCH | Connector 
+DT134P
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=MH1 6=MH2 7=MH3
+*PLB 1="1" 2="2" 3="3" 4="4" 5="MH1" 6="MH2" 7="MH3"
+*MXP 7
+*DFN DT13-4P
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (DT13-4P)
+~!Mouser Part Number (571-DT13-4P)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TE-Connectivity-DEUTSCH/DT13-4P?qs=vkMqrgFpRajaLeBfOZKzWQ%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773962-8&DocType=Data%20Sheet&DocLang=English&PartCntxt=DT13-4P&DocFormat=pdf)
+~!Height (36.12mm)
+~!3D_Model (DT13-4P)
+DT13-4P
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DT13-4P
+D Body Features: Primary Product Color Gray | Configuration Features: Number of Sections 1 | Number of Rows 2 | PCB Mount Orientation Right Angle | Number of Positions 4 | Number of Signal Positions 4 | Contact Features: Contact Size Size 16 | Contact Current Rating (Max) 13 AMP | Contact Type Pin | Mating Pin Diameter 1.59 MM | Mating Pin Diameter .063 INCH | Contact Mating Area Plating Material Nickel | Dimensions: PCB Thickness (Recommended) .78  2.36 MM | Profile Height from PCB 1.388 INCH | Connector 
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773962-8&DocType=Data%20Sheet&DocLang=English&PartCntxt=DT13-4P&DocFormat=pdf
+$ENDCMP
+#
+#End Doc Library

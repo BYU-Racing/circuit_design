@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=DT13-6P
+PartCategory=Connector
+PackageCategory=Other
+PinCount=6
+Version=2.1
+Released=2017-05-26 10:21:03
+Downloaded=2025-02-07 22:07:46
+3D=Y

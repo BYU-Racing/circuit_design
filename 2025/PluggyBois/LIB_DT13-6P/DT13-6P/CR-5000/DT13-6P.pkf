@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "DT13-6P"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "DT13-6P")
+        (spec "default")
+    )
+)

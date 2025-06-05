@@ -1,0 +1,69 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Braden\Desktop\FSAE\circuit_design\2025\PlugCB\PlugCB.PcbDoc
+Date     : 2/7/2025
+Time     : 3:31:54 PM
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Waived Violations Of Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Waived Violation between Hole Size Constraint: (117.716mil > 100mil) Pad 2Pin-3(3209.961mil,4405.433mil) on Multi-Layer Actual Hole Size = 117.716milWaived by Braden Toone at 2/7/2025 3:30:15 PM
+   Waived Violation between Hole Size Constraint: (117.716mil > 100mil) Pad 2Pin-4(3209.961mil,3684.567mil) on Multi-Layer Actual Hole Size = 117.716milWaived by Braden Toone at 2/7/2025 3:30:42 PM
+   Waived Violation between Hole Size Constraint: (117.716mil > 100mil) Pad 2Pin-5(2895mil,4045mil) on Multi-Layer Actual Hole Size = 117.716milWaived by Braden Toone at 2/7/2025 3:30:27 PM
+   Waived Violation between Hole Size Constraint: (117.716mil > 100mil) Pad 4Pin-MH1(1874.449mil,2625mil) on Multi-Layer Actual Hole Size = 117.716milWaived by Braden Toone at 2/7/2025 3:30:51 PM
+   Waived Violation between Hole Size Constraint: (117.716mil > 100mil) Pad 4Pin-MH2(2555.551mil,2625mil) on Multi-Layer Actual Hole Size = 117.716milWaived by Braden Toone at 2/7/2025 3:31:41 PM
+   Waived Violation between Hole Size Constraint: (117.716mil > 100mil) Pad 4Pin-MH3(2215mil,2175mil) on Multi-Layer Actual Hole Size = 117.716milWaived by Braden Toone at 2/7/2025 3:31:31 PM
+   Waived Violation between Hole Size Constraint: (117.716mil > 100mil) Pad 6Pin-7(5139.842mil,2368.15mil) on Multi-Layer Actual Hole Size = 117.716milWaived by Braden Toone at 2/7/2025 3:31:25 PM
+   Waived Violation between Hole Size Constraint: (117.716mil > 100mil) Pad 6Pin-8(4689.842mil,1940.197mil) on Multi-Layer Actual Hole Size = 117.716milWaived by Braden Toone at 2/7/2025 3:31:14 PM
+   Waived Violation between Hole Size Constraint: (117.716mil > 100mil) Pad 6Pin-9(5139.842mil,1512.244mil) on Multi-Layer Actual Hole Size = 117.716milWaived by Braden Toone at 2/7/2025 3:31:06 PM
+Waived Violations :9
+
+Waived Violations Of Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+   Waived Violation between Height Constraint: Component 2Pin-DT13-2P (3135.157mil,4152.48mil) on Top Layer Actual Height = 1093.543milWaived by Braden Toone at 2/7/2025 3:30:16 PM
+   Waived Violation between Height Constraint: Component 4Pin-DT13-4P (2127.402mil,2665.157mil) on Top Layer Actual Height = 1399.512milWaived by Braden Toone at 2/7/2025 3:28:50 PM
+   Waived Violation between Height Constraint: Component 6Pin-DT13-6P (5299.685mil,1940.197mil) on Top Layer Actual Height = 1398.331milWaived by Braden Toone at 2/7/2025 3:31:08 PM
+Waived Violations :3
+
+
+Violations Detected : 0
+Waived Violations : 12
+Time Elapsed        : 00:00:00
