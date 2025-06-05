@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=S2 12V Pin=Sensor 2-1
+Removed Member From Class: ClassName=WOX Member=Sensor 2
+Added Pin To Net: NetName=S2 12V Pin=Sensor 1-2

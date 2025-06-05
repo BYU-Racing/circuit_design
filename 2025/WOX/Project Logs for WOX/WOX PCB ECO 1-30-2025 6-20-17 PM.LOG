@@ -1,0 +1,6 @@
+Change Component Comment : Designator=R? Old Comment=RLR07C15R0FSB14 New Comment=3k
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Added Pin To Net: NetName=Net4P_1 Pin=4P-1
+Added Pin To Net: NetName=Net4P_1 Pin=CAN Module-1
+Added Pin To Net: NetName=Net4P_1 Pin=VReg-1
+Added Net: Name=Net4P_1
