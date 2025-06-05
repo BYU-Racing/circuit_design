@@ -1,9 +1,0 @@
-Manufacturer=TE Connectivity
-PartNumber=DT13-2P
-PartCategory=Connector
-PackageCategory=Other
-PinCount=5
-Version=3.2
-Released=2018-06-11 14:36:05
-Downloaded=2025-02-07 22:22:06
-3D=Y
