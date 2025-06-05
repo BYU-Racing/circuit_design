@@ -1,0 +1,23 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [DCFv2.PrjPcb]
+   Generated File[DCFv2_Copper_Signal_Top.gbr]
+   Generated File[DCFv2_Copper_Signal_Bot.gbr]
+   Generated File[DCFv2_Legend_Top.gbr]
+   Generated File[DCFv2_Legend_Bot.gbr]
+   Generated File[DCFv2_Soldermask_Top.gbr]
+   Generated File[DCFv2_Soldermask_Bot.gbr]
+   Generated File[DCFv2_Paste_Top.gbr]
+   Generated File[DCFv2_Paste_Bot.gbr]
+   Generated File[DCFv2_Keep-out.gbr]
+   Generated File[DCFv2_Profile.gbr]
+   Generated File[DCFv2_NPTH_Drill.gbr]
+   Generated File[DCFv2_PTH_Drill.gbr]
+   Generated File[DCFv2.EXTREP]
+   Generated File[DCFv2.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 3:34:31 PM On 3/28/2025
