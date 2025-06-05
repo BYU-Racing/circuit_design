@@ -1,0 +1,23 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [HotBox.PrjPcb]
+   Generated File[Hotbox_Copper_Signal_Top.gbr]
+   Generated File[Hotbox_Copper_Signal_Bot.gbr]
+   Generated File[Hotbox_Legend_Top.gbr]
+   Generated File[Hotbox_Legend_Bot.gbr]
+   Generated File[Hotbox_Soldermask_Top.gbr]
+   Generated File[Hotbox_Soldermask_Bot.gbr]
+   Generated File[Hotbox_Paste_Top.gbr]
+   Generated File[Hotbox_Paste_Bot.gbr]
+   Generated File[Hotbox_Keep-out.gbr]
+   Generated File[Hotbox_Profile.gbr]
+   Generated File[Hotbox_NPTH_Drill.gbr]
+   Generated File[Hotbox_PTH_Drill.gbr]
+   Generated File[Hotbox.EXTREP]
+   Generated File[Hotbox.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 7:26:51 PM On 2/11/2025
