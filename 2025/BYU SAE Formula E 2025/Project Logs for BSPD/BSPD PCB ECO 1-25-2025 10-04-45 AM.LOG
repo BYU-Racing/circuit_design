@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=12V Pin=Plug-3
-Removed Pin From Net: NetName=Accumulator Disconnect Pin=Plug-5
-Added Pin To Net: NetName=Accumulator Disconnect Pin=Plug-3
-Added Pin To Net: NetName=12V Pin=Plug-5
-Added Member To Class: ClassName=BSPD Member=Component Plug B6B-PH-K-K(LF)(SN)

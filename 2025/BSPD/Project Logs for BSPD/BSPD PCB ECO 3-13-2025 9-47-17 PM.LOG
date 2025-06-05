@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=CMP1A_OUT Pin=OR-1
+Added Pin To Net: NetName=CMP1B_OUT Pin=OR-2
+Added Pin To Net: NetName=CMP2A_OUT Pin=OR-5
+Added Pin To Net: NetName=CMP2B_OUT Pin=OR-6
+Added Pin To Net: NetName=CMP3A_OUT Pin=OR-8
+Added Pin To Net: NetName=CMP3B_OUT Pin=OR-9
