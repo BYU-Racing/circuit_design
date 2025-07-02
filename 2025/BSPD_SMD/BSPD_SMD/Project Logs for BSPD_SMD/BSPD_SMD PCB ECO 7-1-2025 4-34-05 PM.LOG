@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=Current Sensor Pin=Plug-2
+Removed Pin From Net: NetName=Accumulator Disconnect Pin=Plug-3
+Removed Pin From Net: NetName=12V Pin=Plug-4
+Removed Pin From Net: NetName=GND Pin=Plug-6
+Change Component Designator: OldDesignator=.1V NewDesignator=0.1V
+Change Component Designator: OldDesignator=.96V NewDesignator=960mV
+Added Pin To Net: NetName=GND Pin=Plug-2
+Added Pin To Net: NetName=12V Pin=Plug-3
+Added Pin To Net: NetName=Accumulator Disconnect Pin=Plug-4
+Added Pin To Net: NetName=Current Sensor Pin=Plug-6

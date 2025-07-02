@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Accumulator Disconnect Pin=Plug-4
+Removed Pin From Net: NetName=Current Sensor Pin=Plug-6
+Added Pin To Net: NetName=Current Sensor Pin=Plug-4
+Added Pin To Net: NetName=Accumulator Disconnect Pin=Plug-6
