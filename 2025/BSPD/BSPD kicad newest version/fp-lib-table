@@ -1,0 +1,12 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "10k pot")(type "KiCad")(uri "${KIPRJMOD}/libraries_digikey/3296W_1_103LF_pot/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "6 pin header")(type "KiCad")(uri "${KIPRJMOD}/libraries_digikey/61300611121_6 pin header")(options "")(descr ""))
+  (lib (name "NOR gate")(type "KiCad")(uri "${KIPRJMOD}/libraries_digikey/CD4001BE_NOR gate/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "OR gate")(type "KiCad")(uri "${KIPRJMOD}/libraries_digikey/CD4071BE_OR gate/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "AND gate")(type "KiCad")(uri "${KIPRJMOD}/libraries_digikey/CD4081BE_AND gate/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "0.1µF capacitor")(type "KiCad")(uri "${KIPRJMOD}/libraries_digikey/K104K10X7RF5UH5_0.1 microfarad cap/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "LM317P")(type "KiCad")(uri "${KIPRJMOD}/libraries_digikey/LM317P/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "LM393N_NOPB_comparator")(type "KiCad")(uri "${KIPRJMOD}/libraries_digikey/LM393N_NOPB_comparator/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "1µF capacitor")(type "KiCad")(uri "${KIPRJMOD}/libraries_digikey/RCER72A105K2DBH03A_1 microfarad cap")(options "")(descr ""))
+)
