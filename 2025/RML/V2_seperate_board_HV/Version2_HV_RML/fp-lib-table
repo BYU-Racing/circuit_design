@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "optocoupler")(type "KiCad")(uri "${KIPRJMOD}/kicad parts/optocoupler/KiCADv6/footprints.pretty")(options "")(descr "")(disabled))
+  (lib (name "comparator")(type "KiCad")(uri "${KIPRJMOD}/kicad parts/comparator/KiCADv6/footprints.pretty")(options "")(descr "")(disabled))
+  (lib (name "RML_custom_footprints")(type "KiCad")(uri "${KIPRJMOD}/RML_custom_footprints.pretty")(options "")(descr ""))
+  (lib (name "mouser comparator")(type "KiCad")(uri "${KIPRJMOD}/kicad parts/comparator-mouser/TLV1701QDBVRQ1/KiCad/kicad_symbol.pretty")(options "")(descr ""))
+  (lib (name "mouser optocoupler")(type "KiCad")(uri "${KIPRJMOD}/kicad parts/optocoupler-mouser/CNY65/KiCad/optocoupler_footprint.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLV1701QDBVRQ1
+D Automotive single high voltage, low power comparator<br />&nbsp;
+K
+F http://www.ti.com/lit/gpn/tlv1701-q1
+$ENDCMP
+#
+#End Doc Library

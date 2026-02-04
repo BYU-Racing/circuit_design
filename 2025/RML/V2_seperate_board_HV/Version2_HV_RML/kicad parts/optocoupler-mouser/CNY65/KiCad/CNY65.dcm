@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CNY65
+D Optocoupler Transistor O/P 1-ch PDIP4
+K
+F https://www.vishay.com/docs/83540/cny64.pdf
+$ENDCMP
+#
+#End Doc Library

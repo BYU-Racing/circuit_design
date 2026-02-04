@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TLV1701QDBVRQ1'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TLV1701QDBVRQ1" (!) = "", "SOT95P280X145-5N", "SOT23 (5-Pin)", "595-TLV1701QDBVRQ1", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TLV1701QDBVRQ1?qs=1mbolxNpo8e2XkJB1BnFXA%3D%3D", "Automotive single high voltage, low power comparator<br />&nbsp;", "http://www.ti.com/lit/gpn/tlv1701-q1", "1.45 mm"
+END_PART
+
+END.

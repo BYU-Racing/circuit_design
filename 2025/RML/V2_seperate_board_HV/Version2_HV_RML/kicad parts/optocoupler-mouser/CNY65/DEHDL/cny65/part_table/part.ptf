@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CNY65'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "CNY65" (!) = "", "DIPS1524W40P762L960H620Q4N", "Dual-In-Line Sockets", "78-CNY65", "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/CNY65?qs=JrSo%252BAIZiDHPFQFPHHovcg%3D%3D", "Optocoupler Transistor O/P 1-ch PDIP4", "https://www.vishay.com/docs/83540/cny64.pdf", "6.2 mm"
+END_PART
+
+END.

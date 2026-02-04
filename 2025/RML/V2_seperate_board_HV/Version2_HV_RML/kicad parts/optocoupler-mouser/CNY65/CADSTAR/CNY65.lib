@@ -1,0 +1,16 @@
+.CNY65 :1 ;Optocoupler Transistor O/P 1-ch PDIP4
+DIPS1524W40P762L960H620Q4N
+*STM Q
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4"
+*MXP 4
+*DFN CNY65
+~!Mouser Part Number (78-CNY65)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/CNY65?qs=JrSo%252BAIZiDHPFQFPHHovcg%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (CNY65)
+~!Link Datasheet (https://www.vishay.com/docs/83540/cny64.pdf)
+~!Height (6.2mm)
+~!3D_Model (CNY65)
+CNY65
+1.1!U 2.1!U 4.1!U 3.1!U 

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "CNY65"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-06-22-02:40:16)
+    (mountForm default
+        (footprintRef "DIPS1524W40P762L960H620Q4N")
+        (spec "System")
+    )
+)

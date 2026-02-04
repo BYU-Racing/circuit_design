@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=CNY65
+PartCategory=Phototransistor
+PackageCategory=Dual-In-Line Sockets
+PinCount=4
+Version=3.1
+Released=2018-12-18 12:31:27
+Downloaded=2026-01-23 08:05:25
+3D=Y

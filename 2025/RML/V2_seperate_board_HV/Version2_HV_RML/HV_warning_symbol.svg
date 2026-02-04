@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20mm" height="20mm" viewBox="0 0 100 100">
+  <!-- Yellow background triangle (KiCad will just see outline when converted) -->
+  <polygon points="50,5 95,90 5,90" fill="none" stroke="black" stroke-width="4"></polygon>
+
+  <!-- Lightning bolt -->
+  <polygon points="55,20 40,55 55,55 45,85 70,45 55,45" fill="black"></polygon>
+</svg>
